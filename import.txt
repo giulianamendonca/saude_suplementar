@@ -1,0 +1,9 @@
+.read schema.sql
+
+.separator ";"
+
+.import operadoras.csv operadoras
+
+.import beneficiarios.csv beneficiarios
+
+.import reclamacoes.csv reclamacoes

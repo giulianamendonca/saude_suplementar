@@ -1,0 +1,1183 @@
+﻿Código;Operadora;Porte;Região;status
+-5274;Anestes Seguros S/A;0;0;inativa
+1;Nao Informado;0;0;inativa
+43;Sul America Seguro Saude S/A;0;0;inativa
+51;Bradesco Dental S.A.;0;0;inativa
+477;Sul America Seguradora De Saude S.A.;0;0;inativa
+515;Allianz Saude S/A; 1 a 5.000 beneficiarios;Sudeste;ativa
+582;Porto Seguro - Seguro Saude S/A; Acima de 500.000 beneficiarios;Sudeste;ativa
+701;Unimed Seguros Saude S/A; Acima de 500.000 beneficiarios;Sudeste;ativa
+884;Itauseg Saude S.A.; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+5622;Sulasaude Participacoes S.A.;0;0;inativa
+5711;Bradesco Saude S.A.; Acima de 500.000 beneficiarios;Sudeste;ativa
+6246;Sul America Companhia De Seguro Saude; Acima de 500.000 beneficiarios;Sudeste;ativa
+6971;Golden Cross Seguradora S/A;0;0;inativa
+300136;Unimed Litoral Sul/Rs - Cooperativa De Assi; 20.001 a 50.000 beneficiarios;Sul;ativa
+300497;Fundacao Forluminas De Seguridade Social;0;0;inativa
+300713;Unimed De Assis Cooperativa De Trabalho Med; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+300730;Dental Gold Assistencia Odontologica Ltda.; 50.001 a 100.000 beneficiarios;Nordeste;ativa
+300870;Unimed Do Brasil - Conf. Nacional Das Coope; 1 a 5.000 beneficiarios;Sudeste;ativa
+301060;Unimed Ituiutaba Cooperativa Trabalho Medic; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+301124;Unimed Gurupi Cooperativa De Trabalho Medic; 5.001 a 10.000 beneficiarios;Norte;ativa
+301337;Insolvencia Civil De Unimed Paulistana Soci;0;0;inativa
+301574;Unimed De Limeira Cooperativa De Trabalho M; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+301647;Uniodonto De Fernandopolis Cooperativa Odon; 1 a 5.000 beneficiarios;Sudeste;ativa
+301728;Prontomed Planos De Saude Ltda; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+301744;Unimed Meio Oeste Catarinense Cooperativa D; 20.001 a 50.000 beneficiarios;Sul;ativa
+301949;Odontoprev S/A; Acima de 500.000 beneficiarios;Sudeste;ativa
+302147;Prevent Senior Private Operadora De Saude L; Acima de 500.000 beneficiarios;Sudeste;ativa
+302228;Unimed Vale Do Corumba Cooperativa De Traba; 5.001 a 10.000 beneficiarios;Centro Oeste;ativa
+302627;Caixa De Assistencia Dos Magistrados De Per; 1 a 5.000 beneficiarios;Nordeste;ativa
+302872;Amil Saude Ltda.;0;0;inativa
+302953;Unimed De Macae Cooperativa De Assistencia; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+303178;Unimed De Sobral Sociedade Cooperativa Medi; 10.001 a 20.000 beneficiarios;Nordeste;ativa
+303259;Uniodonto Sao Jose Do Rio Preto - Cooperati; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+303267;Unimed Jundiai - Cooperativa De Trabalho Me; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+303291;Uniodonto Mossoro - Cooperativa Dos Cirurgi; 1 a 5.000 beneficiarios;Nordeste;ativa
+303356;Unimed Litoral Cooperativa De Trabalho Medi; 100.001 a 500.000 beneficiarios;Sul;ativa
+303623;Centro Trasmontano De Sao Paulo; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+303739;Sermed-Saude Ltda.; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+303844;Unimed De Andradina - Cooperativa De Trabal; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+303976;Unimed Belem Cooperativa De Trabalho Medico; 100.001 a 500.000 beneficiarios;Norte;ativa
+304051;Unimed Montes Claros Cooperativa De  Trabal; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+304123;Unimed De Avare Cooperativa De Trabalho Med; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+304131;Associacao Beneficente De Assistencia A Sau; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+304212;On Med Assistencia Medica Ltda; 20.001 a 50.000 beneficiarios;Sul;ativa
+304344;Unimed Para De Minas Cooperativa De Trabalh; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+304395;Unimed Inconfidentes Cooperativa De Trabalh; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+304441;Nacional Odonto Operadora De Planos Odontol; 100.001 a 500.000 beneficiarios;Nordeste;ativa
+304468;Unimed Barra Do Garcas - Cooperativa De Tra; 20.001 a 50.000 beneficiarios;Centro Oeste;ativa
+304484;Dental Uni - Cooperativa Odontologica; Acima de 500.000 beneficiarios;Sul;ativa
+304531;Ame-Assistencia Medica A Empresas Ltda; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+304662;Assistencia Medica Sao Paulo S/A;0;0;inativa
+304701;Unimed Curitiba - Sociedade Cooperativa De; Acima de 500.000 beneficiarios;Sul;ativa
+304883;Unimed De Botucatu Cooperativa De Trabalho; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+305227;Unimed Oeste Do Parana - Cooperativa De Tra; 20.001 a 50.000 beneficiarios;Sul;ativa
+305421;Uniodonto Rs Federacao Das Uniodontos Do Rg; 20.001 a 50.000 beneficiarios;Sul;ativa
+305472;Unimed Regional Sul Goias Coop. De Trabalho; 20.001 a 50.000 beneficiarios;Centro Oeste;ativa
+305626;Prontoclinica E Hospitais Sao Lucas S/A; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+305740;Uniodonto De Recife - Cooperativa Odontolog; 1 a 5.000 beneficiarios;Nordeste;ativa
+305928;Nosamed Assistencia Medica Ltda.; 1 a 5.000 beneficiarios;Sudeste;ativa
+306045;Santa Casa De Misericordia De Tupa; 1 a 5.000 beneficiarios;Sudeste;ativa
+306100;Unimed Regional De Campo Mourao Coop Trab M; 20.001 a 50.000 beneficiarios;Sul;ativa
+306126;Unimed De Rio Claro Sp Cooperativa De Traba; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+306398;Unimed - Cooperativa De Servicos De Saude D; 100.001 a 500.000 beneficiarios;Sul;ativa
+306622;Amico Saude Ltda;0;0;inativa
+306754;Associacao Dos Funcionarios Do Fisco Do Est; 5.001 a 10.000 beneficiarios;Centro Oeste;ativa
+306762;Unimed Regional Jau - Cooperativa De Trabal; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+306886;Unimed Juiz De Fora Cooperativa De Trabalho; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+307319;Caixa De Assistencia Dos Empregados Do Banc; 20.001 a 50.000 beneficiarios;Sul;ativa
+307751;Fundacao Compesa De Previdencia E Assistenc; 5.001 a 10.000 beneficiarios;Nordeste;ativa
+308811;Unimed Vale Do Piquiri-Cooperativa De Traba; 5.001 a 10.000 beneficiarios;Sul;ativa
+309028;Associacao Dos Servidores Municipais, Estad; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+309087;Unimed Barbacena - Cooperativa De Trabalho; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+309222;Grupo Hospitalar Do Rio De Janeiro Ltda; Acima de 500.000 beneficiarios;Sudeste;ativa
+309257;Uniodonto De Jales - Cooperativa Odontologi; 1 a 5.000 beneficiarios;Sudeste;ativa
+309338;Hospital Regional De Franca S/A;0;0;inativa
+309524;Unimed De Monte Alto - Cooperativa De Traba; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+309907;Unimed Palmas Cooperativa De Trabalho Medic; 20.001 a 50.000 beneficiarios;Norte;ativa
+310107;Uniodonto De Salvador - Cooperativa De Trab; 1 a 5.000 beneficiarios;Nordeste;ativa
+310131;Unimed Planalto - Cooperativa De Trabalho M;0;0;inativa
+310239;Pessoal Saude Planos De Assistencia Medica; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+310247;Circulo Operario Caxiense; 100.001 a 500.000 beneficiarios;Sul;ativa
+310522;Proasa Saude; 20.001 a 50.000 beneficiarios;Centro Oeste;ativa
+310981;Odonto Empresas Convenios Dentarios Ltda.; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+311057;Unimed Vale Do Urucuia - Cooperativa De Tra; 1 a 5.000 beneficiarios;Sudeste;ativa
+311146;Unimed Costa Verde Rj; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+311294;Unimed De Ourinhos - Cooperativa De Trabalh; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+311359;Fundacao De Saude Itaiguapy; 20.001 a 50.000 beneficiarios;Sul;ativa
+311375;Unimed Pelotas/Rs - Cooperativa De Assisten; 20.001 a 50.000 beneficiarios;Sul;ativa
+311391;Uniodonto De Manaus - Cooperativa Odontolog; 50.001 a 100.000 beneficiarios;Norte;ativa
+311472;Ceam Brasil - Planos De Saude Ltda; 1 a 5.000 beneficiarios;Sudeste;ativa
+311618;Unimed Missoes/Rs - Cooperativa De Assisten; 20.001 a 50.000 beneficiarios;Sul;ativa
+311669;Uniodonto De Avare Cooperativa Odontologica; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+311715;Unimed Encosta Da Serra/Rs Sociedade Cooper; 20.001 a 50.000 beneficiarios;Sul;ativa
+311847;Unimed Regional Da Baixa Mogiana - Cooperat; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+311944;Unimed De Adamantina-Cooperativa De Trabalh; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+311961;Unimed De Manaus Coop. Do Trabalho Medico L; 10.001 a 20.000 beneficiarios;Norte;ativa
+312126;Fundacao Saude Itau; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+312282;Intermedici Piracicaba Assistencia Medica L; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+312321;Odonto Jaragua Ltda; 10.001 a 20.000 beneficiarios;Sul;ativa
+312347;Unimed Anapolis Cooperativa De Trabalho Med; 20.001 a 50.000 beneficiarios;Centro Oeste;ativa
+312363;Unimed Do Est. Do Rj Federacao Est. Das Coo; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+312592;Unimed Norte Fluminense Cooperativa De Trab; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+312720;Unimed Do Estado Do Parana Federacao Estadu; 100.001 a 500.000 beneficiarios;Sul;ativa
+312851;Unimed Campo Grande Ms Cooperativa De Traba; 100.001 a 500.000 beneficiarios;Centro Oeste;ativa
+312924;Caixa Economica Federal; 100.001 a 500.000 beneficiarios;Centro Oeste;ativa
+313084;Cooperativa De Trabalho Medico De Araguaina; 10.001 a 20.000 beneficiarios;Norte;ativa
+313149;Unimed De Batatais - Cooperativa De Trabalh; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+313211;Unimed Vale Do Cai/Rs - Cooperativa De Assi; 20.001 a 50.000 beneficiarios;Sul;ativa
+313475;Unimed Regional De Picos - Cooperativa De T; 1 a 5.000 beneficiarios;Nordeste;ativa
+313751;Uniodonto De Sao Jose Dos Campos Cooperativ; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+313807;Uniodonto Dourados - Cooperativa Odontologi; 5.001 a 10.000 beneficiarios;Centro Oeste;ativa
+313971;Federacao Das Sociedades Cooperativas De Tr; 5.001 a 10.000 beneficiarios;Norte;ativa
+314099;Unimed Vale Do Sepotuba - Cooperativa De Tr; 20.001 a 50.000 beneficiarios;Centro Oeste;ativa
+314170;Insolvencia Civil De Cooperativa De Usuario;0;0;inativa
+314218;Associacao De Beneficencia E Filantropia Sa; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+314242;Unimed De Pirassununga Cooperativa De Traba; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+314251;Caixa Assistencial Universitaria Do Rio Gra; 5.001 a 10.000 beneficiarios;Nordeste;ativa
+314315;Uniodonto Do Brasil Central Nacional Das Co; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+314366;Dental Plus Convenio Odontologico Ltda.; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+314587;Unimed Vicosa - Cooperativa De Trabalho Med; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+314668;Abertta Saude - Associacao Beneficente Dos; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+314706;Hospital Cesar Leite; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+314757;Centro Odontologico Integrado Ltda; 1 a 5.000 beneficiarios;Centro Oeste;ativa
+314781;Unimed De Dracena - Cooperativa De Trabalho; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+314871;Uniodonto Sudoeste Goiano - Cooperativa De; 10.001 a 20.000 beneficiarios;Centro Oeste;ativa
+315044;Fundacao Celesc De Seguridade Social - Celo; 20.001 a 50.000 beneficiarios;Sul;ativa
+315265;Parana Assistencia Medica Ltda; 20.001 a 50.000 beneficiarios;Sul;ativa
+315478;Fundacao Cesp; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+315494;Unimed Noroeste De Minas Cooperativa De Tra; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+315567;Fundacao Affemg De Assistencia E Saude - Fu; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+315583;Caixa De Assistencia Dos Empregados Do Bane; 1 a 5.000 beneficiarios;Nordeste;ativa
+315630;Insolvencia Civil De Social-Sociedade Assis;0;0;inativa
+315648;Unimed Cataguases Cooperativa De Trabalho M; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+315729;Unimed De Piracicaba Sociedade Cooperativa; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+315796;Unimed De Presidente Prudente Cooperativa D; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+315818;Uniodonto Ponta Grossa Cooperativa Odontolo; 5.001 a 10.000 beneficiarios;Sul;ativa
+316148;Unimed Pocos De Caldas - Soc. Coop. De Trab; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+316458;Unimed Regional De Floriano - Cooperativa D; 1 a 5.000 beneficiarios;Nordeste;ativa
+316491;Irmandade Da Santa Casa Da Misericordia De;0;0;inativa
+316849;Telos - Fundacao Embratel De Seguridade Soc; 1 a 5.000 beneficiarios;Sudeste;ativa
+316873;Caixa De Assistencia A Saude Da Universidad; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+316881;Unimed Teofilo Otoni Cooperativa De Trabalh; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+316903;Polimedica Saude Sociedade Simples Ltda; 1 a 5.000 beneficiarios;Sul;ativa
+316997;Uniodonto De Araraquara Cooperativa Odontol; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+317012;Cooperativa De Trabalho Medico Do Planalto; 10.001 a 20.000 beneficiarios;Sul;ativa
+317144;Unimed De Fortaleza Sociedade Cooperativa M; 100.001 a 500.000 beneficiarios;Nordeste;ativa
+317233;Fundacao Chesf De Assistencia E Seguridade; 10.001 a 20.000 beneficiarios;Nordeste;ativa
+317501;Interodonto - Sistema De Saude Odontologica;0;0;inativa
+317632;Associacao Dos Auditores Fiscais Da Receita; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+317896;Unimed Vertente Do Caparao - Cooperativa De; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+318035;Unimed Guaxupe Cooperativa De Trabalho Medi; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+318213;Cooperativa De Trabalho Medico Regiao Do Pl; 10.001 a 20.000 beneficiarios;Sul;ativa
+318299;Beneficencia Camiliana Do Sul; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+318388;Unimed De Sao Roque - Cooperativa De Trabal; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+318477;Operadora Unicentral De Planos De Saude Ltd; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+318566;Unimed Metropolitana Do Agreste - Cooperati; 20.001 a 50.000 beneficiarios;Nordeste;ativa
+319121;Unimed Divinopolis - Cooperativa De Trabalh; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+319180;Sao Domingos Saude- Assistencia Medica  Ltd; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+319350;Uniodonto Taubate Cooperativa De Trabalho O; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+319384;Unimed Planalto Medio/Rs - Cooperativa De A; 20.001 a 50.000 beneficiarios;Sul;ativa
+319422;Irmandade Da Santa Casa De Misericordia De; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+319708;Unimed Santa Maria/Rs - Cooperativa De Assi; 20.001 a 50.000 beneficiarios;Sul;ativa
+319872;Camim Operadora De Plano De Saude Ltda; 1 a 5.000 beneficiarios;Sudeste;ativa
+319996;Unimed Do Estado De Sao Paulo - Federacao E; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+320111;Massa Falida De Saude Sim Ltda;0;0;inativa
+320251;Unimed Rio Verde Cooperativa Trabalho Medic; 50.001 a 100.000 beneficiarios;Centro Oeste;ativa
+320510;Ativia Servicos De Saude S/A; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+320587;Empresa Brasileira De Telecomunicacoes S.A;0;0;inativa
+320706;Unimed Sul Capixaba Cooperativa De Trabalho; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+320820;Caixa De Assistencia Sistema Saude Integral; 10.001 a 20.000 beneficiarios;Sul;ativa
+320838;Unimed Intrafederativa Federacao Regional S; 1 a 5.000 beneficiarios;Sudeste;ativa
+320862;Unimed De Paranavai Cooperativa De Trabalho; 20.001 a 50.000 beneficiarios;Sul;ativa
+320897;Unimed Centro Sul Fluminense Cooperativa De; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+321044;Unimed Joao Pessoa - Cooperativa De Trabalh; 100.001 a 500.000 beneficiarios;Nordeste;ativa
+321087;Unimed Marques De Valenca Cooperativa De Tr; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+321125;Uniodonto Maceio Cooperativa Odontologica; 50.001 a 100.000 beneficiarios;Nordeste;ativa
+321273;Unimed De Joinville Cooperativa De Trabalho; 100.001 a 500.000 beneficiarios;Sul;ativa
+321320;Irmandade Da Santa Casa De Misericordia E M; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+321338;Ameron - Assistencia Medica Rondonia S/A.; 5.001 a 10.000 beneficiarios;Norte;ativa
+321931;Conferencia Sao Jose Do Avai; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+321958;Unimed Do Ceara - Federacao Das Sociedades; 50.001 a 100.000 beneficiarios;Nordeste;ativa
+322261;Unimed De Feira De Santana Cooperativa De T;0;0;inativa
+322326;Associacao Beneficente Catolica; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+322571;Unimed Guarapuava Cooperativa De Trabalho M; 20.001 a 50.000 beneficiarios;Sul;ativa
+322831;Unimed Itajuba Cooperativa De Trabalho Medi; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+322890;Dentalpar Assistencia Odontologica Empresar; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+323004;Unimed De Penapolis - Cooperativa De Trabal; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+323055;Unimed Norte Paulista - Cooperativa De Trab; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+323080;Geap Autogestao Em Saude; 100.001 a 500.000 beneficiarios;Centro Oeste;ativa
+323268;Unimed Vale Do Sao Francisco Cooperativa De; 50.001 a 100.000 beneficiarios;Nordeste;ativa
+323357;Unimed Cabo Frio Cooperativa Trabalho Medic; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+323926;Unimed Sao Joao Del Rei - Cooperativa De Tr; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+323942;Fundacao Filantropica E Beneficente De Saud; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+323993;Unimed Petropolis-Rj Cooperativa De Trabalh; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+324159;Unimed Alta Mogiana Cooperativa De Trabalho; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+324175;Unimed Sudoeste De Minas Cooperativa De Tra; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+324213;Unimed Norte/Nordeste-Federacao Interfedera; 1 a 5.000 beneficiarios;Nordeste;ativa
+324299;Plamer Plano Medico Resende Ltda; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+324345;Unimed Costa Do Descobrimento Cooperativa D; 20.001 a 50.000 beneficiarios;Nordeste;ativa
+324361;Caixa De Assistencia a Saude - Caberj; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+324477;Caixa De Previdencia E Assistencia Dos Serv; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+324493;S.P.A Saude- Sistema De Promocao Assistenci; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+324523;Unimed Paraiba - Federacao Das Sociedades C; 1 a 5.000 beneficiarios;Nordeste;ativa
+324566;Unimed De Catalao Cooperativa De Trabalho M; 10.001 a 20.000 beneficiarios;Centro Oeste;ativa
+324710;Servico De Assistencia Odontologica Social; 1 a 5.000 beneficiarios;Sudeste;ativa
+324892;Cetesb - Companhia Ambiental Do Estado De S; 1 a 5.000 beneficiarios;Sudeste;ativa
+325031;Unimed De Lencois Paulista - Cooperativa De; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+325074;Green Line Sistema De Saude S.A;0;0;inativa
+325082;Unimed Do Oeste Da Bahia Cooperativa De Tra; 1 a 5.000 beneficiarios;Nordeste;ativa
+325236;Assistencia Medica Sao Miguel Ltda; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+325341;Organizacao Medica Clinihauer Ltda;0;0;inativa
+325465;Ampara Assistencia Medica Paraiso Ltda; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+325571;Unimed Serra Gaucha/Rs Cooperativa De Assis; 100.001 a 500.000 beneficiarios;Sul;ativa
+326305;Amil Assistencia Medica Internacional S.A.; Acima de 500.000 beneficiarios;Sudeste;ativa
+326500;Sobam Centro Medico Hospitalar S.A.; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+326755;Associacao Evangelica Beneficente De Londri; 50.001 a 100.000 beneficiarios;Sul;ativa
+326861;Promedica - Protecao Medica A Empresas S.A.; 50.001 a 100.000 beneficiarios;Nordeste;ativa
+327093;Uniodonto Bebedouro - Cooperativa Odontolog; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+327107;Amesp Sistema De Saude Ltda;0;0;inativa
+327328;Casa De Saude Nossa Senhora De Fatima  Ltda; 1 a 5.000 beneficiarios;Nordeste;ativa
+327352;Unimed Sao Sebastiao Do Paraiso Cooperativa; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+327417;Austaclinicas Assistencia Medica E Hospital; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+327441;Uniodonto Sudeste Mineiro Cooperativa De Sa; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+327468;Unimed Sudoeste Paulista Cooperativa De Tra; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+327557;Caixa Assistencial E Beneficente Dos Funcio; 10.001 a 20.000 beneficiarios;Sul;ativa
+327638;Unimed Sao Joao Nepomuceno Cooperativa De T; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+327689;Unimed Maceio Cooperativa De Trabalho Medic; 100.001 a 500.000 beneficiarios;Nordeste;ativa
+327867;Denticao Convenios Odontologicos Ltda; 10.001 a 20.000 beneficiarios;Sul;ativa
+328031;Unimed Federacao Do Estado Do Mato Grosso; 1 a 5.000 beneficiarios;Centro Oeste;ativa
+328294;Unimed Nordeste Paulista - Fed. Intrafedera; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+328308;Unimed De Mococa Cooperativa De Trab. Medic; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+328375;Unimed Regiao Da Fronteira - Rs Cooperativa; 1 a 5.000 beneficiarios;Sul;ativa
+328537;Med-Tour Administradora De Beneficios E Emp; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+329282;Industrias Nucleares Do Brasil S/A - Inb; 1 a 5.000 beneficiarios;Sudeste;ativa
+329339;Unimed De Criciuma Cooperativa De Trabalho; 50.001 a 100.000 beneficiarios;Sul;ativa
+329355;Irmandade De Misericordia De Porto Ferreira; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+329665;Fundacao Capital Previdencia E Saude - Capi; 1 a 5.000 beneficiarios;Sudeste;ativa
+329886;Unimed De Jaboticabal Coop. De Trabalho Med; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+329967;Mattos Odontologia Ltda; 1 a 5.000 beneficiarios;Sudeste;ativa
+330051;Companhia De Engenharia De Trafego - Cet; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+330108;Unimed Curvelo Cooperativa De Trabalho Medi; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+330116;Santa Casa De Misericordia De Votuporanga; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+330264;Unimed De Barra Mansa Soc. Coop. Serv.Med.E; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+330281;Associacao Dos Auditores Fiscais Do Estado; 1 a 5.000 beneficiarios;Nordeste;ativa
+330337;Sociedade Operaria Humanitaria;0;0;inativa
+330566;Unimed Resende Cooperativa De Trabalho Medi; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+330809;Fundacao De Seguridade Social Da Arcelormit; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+330892;Associacao Saude Conceicao; 10.001 a 20.000 beneficiarios;Sul;ativa
+331104;Uniodonto De Pindamonhangaba Coop Odontolog; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+331317;Real Grandeza - Fundacao De Previdencia E A; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+331341;Unimed De Bebedouro Cooperativa De Trabalho; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+331651;Unimed Araxa Cooperativa De Trabalho Medico; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+331872;Unimed Sao Jose Dos Campos - Cooperativa De; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+331988;Pasa - Plano De Assistencia A Saude Do Apos; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+333051;Unimed De Guarulhos Cooperativa De Trabalho; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+333239;Sistema Prevsaude Dental Ltda; 5.001 a 10.000 beneficiarios;Nordeste;ativa
+333620;Dental-Med Assistencia Odontologica S/S Ltd; 10.001 a 20.000 beneficiarios;Sul;ativa
+333662;Unimed De Dourados Cooperativa De Trabalho; 20.001 a 50.000 beneficiarios;Centro Oeste;ativa
+333689;Mediservice Operadora De Planos De Saude S.; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+333808;Irmandade De Misericordia Do Hospital Da Sa; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+333867;Associacao Unisaude Marau; 1 a 5.000 beneficiarios;Sul;ativa
+333875;Irmandade Da Santa Casa De Misericordia De; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+334154;Unimed De Cacapava - Cooperativa De Trabalh; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+334189;Companhia Nacional De Abastecimento - Conab; 5.001 a 10.000 beneficiarios;Centro Oeste;ativa
+334243;Uniodonto De Sorocaba Cooperativa Odontolog; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+334511;Unimed Vale Do Paraiba - Federacao Intrafed; 1 a 5.000 beneficiarios;Sudeste;ativa
+334561;Unimed Blumenau - Cooperativa De Trabalho M; 100.001 a 500.000 beneficiarios;Sul;ativa
+334588;Odonto System Planos Odontologicos Ltda;0;0;inativa
+334847;Unimed De Jatai Cooperativa De Trabalho Med; 5.001 a 10.000 beneficiarios;Centro Oeste;ativa
+335100;Unimed Sao Jose Do Rio Preto - Coop. De Tra; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+335215;Unimed Araruama Cooperativa De Trabalho Med; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+335258;Uniodonto De Fortaleza Cooperativa De Traba; 50.001 a 100.000 beneficiarios;Nordeste;ativa
+335479;Unimed Nova Friburgo-Soc.Coop.Serv.Med.Hosp; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+335517;Unimed Itabira Cooperativa De Trabalho Medi; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+335525;Uniodonto Sao Carlos -  Cooperativa Odontol; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+335541;Unimed Vale Das Antas, Rs - Cooperativa De; 10.001 a 20.000 beneficiarios;Sul;ativa
+335592;Unimed Natal Soc. Coop. De Trab. Medico; 100.001 a 500.000 beneficiarios;Nordeste;ativa
+335614;Samedil Servicos De Atendimento Medico S/A; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+335657;Advance Planos De Saude Ltda; 1 a 5.000 beneficiarios;Sudeste;ativa
+335690;Unimed Campinas - Cooperativa De Trabalho M; Acima de 500.000 beneficiarios;Sudeste;ativa
+335754;Associacao Dos Servidores Fiscais Do Estado; 5.001 a 10.000 beneficiarios;Nordeste;ativa
+335789;Caixa De Assistencia Dos Empregados Do Bane; 5.001 a 10.000 beneficiarios;Nordeste;ativa
+336017;Uniodonto De Presidente Prudente Cooperativ; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+336025;Uniodonto De Rondonia Cooperativa Ltda.; 1 a 5.000 beneficiarios;Norte;ativa
+336106;Unimed De Marilia Cooperativa De Trabalho M; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+336238;Uniodonto De Monte Alto Cooperativa Odontol; 1 a 5.000 beneficiarios;Sudeste;ativa
+336467;Unimed Patos - Cooperativa De Trabalho Medi; 1 a 5.000 beneficiarios;Nordeste;ativa
+336831;Irmandade Santa Casa De Misericordia De Mar; 20.001 a 50.000 beneficiarios;Sul;ativa
+336858;Unimed Francisco Beltrao Cooperativa De Tra; 20.001 a 50.000 beneficiarios;Sul;ativa
+336874;Atemde Odonto Saude Clube De Beneficios; 5.001 a 10.000 beneficiarios;Nordeste;ativa
+337188;Cooperativa De Trabalho Medico De Pouso Ale; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+337374;Unimed Porto Velho - Sociedade Cooperativa; 20.001 a 50.000 beneficiarios;Norte;ativa
+337498;Unimed Tres Rios Cooperativa De Trabalho Me; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+337510;Medplan Assistencia Medica Ltda.;0;0;inativa
+337561;Unimed Vale Do Carangola Cooperativa De Tra; 1 a 5.000 beneficiarios;Sudeste;ativa
+337668;Unimed Sergipe - Cooperativa De Trabalho Me; 50.001 a 100.000 beneficiarios;Nordeste;ativa
+337871;Unimed Rio Branco Cooperativa De Trabalho M; 20.001 a 50.000 beneficiarios;Norte;ativa
+338346;Sulmed - Assistencia Medica Ltda; 20.001 a 50.000 beneficiarios;Sul;ativa
+338648;Fundacao Sanepar De Assistencia Social; 20.001 a 50.000 beneficiarios;Sul;ativa
+339245;Santamalia Saude S.A.;0;0;inativa
+339270;Celulose Nipo-Brasileira S/A - Cenibra; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+339458;Dental Center Ltda; 50.001 a 100.000 beneficiarios;Nordeste;ativa
+339601;Agemed Saude Ltda - Em Liquidacao Extrajudi;0;0;inativa
+339636;Fundacao De Assistencia E Previdencia Socia; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+339679;Unimed Nacional - Cooperativa Central; Acima de 500.000 beneficiarios;Sudeste;ativa
+339954;Fundacao Sao Francisco Xavier; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+340120;Uniodonto Athenas Paulista - Cooperativa Od; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+340146;Associacao Auxiliadora Das Classes Laborios;0;0;inativa
+340162;Samig - Serv. De Assistencia Medica Da Ilha; 1 a 5.000 beneficiarios;Sudeste;ativa
+340251;Unimed Extremo Oeste Catarinense Cooperativ; 10.001 a 20.000 beneficiarios;Sul;ativa
+340782;Clinipam Clinica Paranaense De Assistencia; 100.001 a 500.000 beneficiarios;Sul;ativa
+340952;Unimed Caruaru-Cooperativa De Trabalho Medi; 50.001 a 100.000 beneficiarios;Nordeste;ativa
+341819;Unimed Alto Paranaiba Cooperativa De Trabal; 1 a 5.000 beneficiarios;Sudeste;ativa
+341894;Uniodonto Fronteira Oeste/Rs Cooperativa Od; 5.001 a 10.000 beneficiarios;Sul;ativa
+341941;Hospital De Prontoclinica Ltda.; 5.001 a 10.000 beneficiarios;Sul;ativa
+342033;Samp Espirito Santo Assistencia Medica Sa; Acima de 500.000 beneficiarios;Sudeste;ativa
+342084;Unimed Cuiaba Cooperativa De Trabalho Medic; 100.001 a 500.000 beneficiarios;Centro Oeste;ativa
+342131;Unimed Vilhena - Cooperativa De Trabalho Me; 10.001 a 20.000 beneficiarios;Norte;ativa
+342157;Unimed Morrinhos Cooperativa De Trabalho Me; 1 a 5.000 beneficiarios;Centro Oeste;ativa
+342203;Uniodonto De Sc Cooperativa Administradora; 50.001 a 100.000 beneficiarios;Sul;ativa
+342335;Cooperativa Odontologica De Garanhuns E Agr; 5.001 a 10.000 beneficiarios;Nordeste;ativa
+342343;Unimed De Pindamonhangaba - Cooperativa Tra; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+342386;Unimed Regional De Tres Lagoas Cooperativa; 10.001 a 20.000 beneficiarios;Centro Oeste;ativa
+342556;Associacao Dr. Bartholomeu Tacchini; 50.001 a 100.000 beneficiarios;Sul;ativa
+342611;Economus Instituto De Seguridade Social; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+342807;Santa Casa De Misericordia De Juiz De Fora; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+342955;Hsmed Saude Ltda; 1 a 5.000 beneficiarios;Sudeste;ativa
+343056;Uniodonto Jacarei Cooperativa Odontologica; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+343064;Garantia De Saude Ltda; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+343129;Associacao Dos Professores Universitarios D; 1 a 5.000 beneficiarios;Nordeste;ativa
+343153;Unimed Sousa - Cooperativa De Trabalho Medi; 1 a 5.000 beneficiarios;Nordeste;ativa
+343269;Unimed De Londrina Cooperativa De Trabalho; 100.001 a 500.000 beneficiarios;Sul;ativa
+343331;Caixa De Assistencia Dos Empregados Do Sist; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+343404;Uniodonto De Mato Grosso Coop Trab Odontolo; 20.001 a 50.000 beneficiarios;Centro Oeste;ativa
+343463;Plamed Plano De Assistencia Medica Ltda; 20.001 a 50.000 beneficiarios;Nordeste;ativa
+343676;Samoc S.A. - Sociedade Assistencial Medica; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+343684;Unimed Alto Da Serra - Sociedade Cooperativ; 10.001 a 20.000 beneficiarios;Sul;ativa
+343722;Unimed Ponte Nova Cooperativa De Trabalho M; 1 a 5.000 beneficiarios;Sudeste;ativa
+343731;Unimed-Sao Goncalo - Niteroi - Soc.Coop.Ser; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+343765;Unimed Caldas Novas - Cooperativa De Trabal; 5.001 a 10.000 beneficiarios;Centro Oeste;ativa
+343889;Unimed Belo Horizonte Cooperativa De Trabal; Acima de 500.000 beneficiarios;Sudeste;ativa
+343919;Uniodonto Cooperativa Odontologica Do Serid; 1 a 5.000 beneficiarios;Nordeste;ativa
+344095;Sisdente - Sistema Integrado De Saude Denta; 1 a 5.000 beneficiarios;Sudeste;ativa
+344141;Unimed Cajazeiras - Sociedade Cooperativa D; 1 a 5.000 beneficiarios;Nordeste;ativa
+344184;Caixa De Assistencia Dos Empregados Do Seto; 1 a 5.000 beneficiarios;Centro Oeste;ativa
+344362;Sao Lucas Saude S/A; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+344397;Unimed Nova Iguacu Cooperativa De Trabalho; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+344443;Vidaplan Saude Ltda.; 1 a 5.000 beneficiarios;Sudeste;ativa
+344451;Uniodonto Regional Cooperativa Odontologica; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+344486;Odontobase Planos De Saude Ltda.; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+344681;Uniodonto De Lins Cooperativa Odontologica; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+344729;Unimed Varginha Cooperativa De Trabalho Med; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+344788;Unimed De Corumba Cooperativa De Trabalho M; 5.001 a 10.000 beneficiarios;Centro Oeste;ativa
+344800;Alvorecer - Associacao De Socorros Mutuos; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+344885;Unimed Recife Cooperativa De Trabalho Medic; 100.001 a 500.000 beneficiarios;Nordeste;ativa
+344915;Santa Casa De Misericordia E Asilo Dos Pobr; 1 a 5.000 beneficiarios;Sudeste;ativa
+345091;Santa Casa De Misericordia De Sao Joaquim D; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+345270;Unimed Do Abc - Cooperativa De Trabalho Med;0;0;inativa
+345318;Uniodonto/Rn - Cooperativa Odontologica Do; 50.001 a 100.000 beneficiarios;Nordeste;ativa
+345458;Unimed Lavras Cooperativa De Trabalho Medic; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+345474;Servico Federal De Processamento De Dados (; 10.001 a 20.000 beneficiarios;Centro Oeste;ativa
+345598;Unimed Amparo Cooperativa De Trabalho Medic; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+345695;Vale S/A; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+345709;Unimed Conselheiro Lafaiete Cooperativa De; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+345741;Irmandade Santa Casa De Misericordia De Ita;0;0;inativa
+345776;Unimed De Birigui - Cooperativa De Trabalho; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+346004;Uniodonto Piracicaba - Cooperativa Odontolo; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+346209;Unimed Extremo Sul Cooperativa De Trabalho; 20.001 a 50.000 beneficiarios;Nordeste;ativa
+346276;Unimed Salto/Itu - Cooperativa Medica; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+346659;Caixa De Assistencia Dos Funcionarios Do Ba; Acima de 500.000 beneficiarios;Centro Oeste;ativa
+346870;Porto Alegre Clinicas Ltda. - Em Liquidacao;0;0;inativa
+346926;Fundacao Assistencial Dos Servidores Do Min; 50.001 a 100.000 beneficiarios;Centro Oeste;ativa
+346951;Unimed Cacador Cooperativa De Trabalho Medi; 10.001 a 20.000 beneficiarios;Sul;ativa
+347108;Unimed De Barretos Cooperativa De Trabalho; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+347183;Uniodonto De Campo Grande Sist. Nac. Coop.; 10.001 a 20.000 beneficiarios;Centro Oeste;ativa
+347230;Unimed Ilheus Cooperativa De Trabalho Medic;0;0;inativa
+347302;Uniodonto De Cacapava Cooperativa Odontolog; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+347477;Uniodonto De Botucatu Cooperativa Odontolog; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+347507;Unimed Centro Rondonia Cooperativa De Traba; 20.001 a 50.000 beneficiarios;Norte;ativa
+347604;Uniodonto De Americana Cooperativa Odontolo; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+347655;Irmandade Da Santa Casa De Misericordia De; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+347736;Unimed Caratinga - Cooperativa De Trabalho; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+347795;Uniodonto De Jundiai Cooperativa Odontologi; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+347825;Caixa Assistencial Universitaria Do Rio De; 1 a 5.000 beneficiarios;Sudeste;ativa
+348082;Unimed Anhanguera Cooperativa De Trabalho M; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+348180;Humana Saude Ltda.; 100.001 a 500.000 beneficiarios;Sul;ativa
+348244;Unimed De Brusque Cooperativa De Trabalho M; 10.001 a 20.000 beneficiarios;Sul;ativa
+348261;Unimed Alto Sao Francisco Cooperativa De Tr; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+348295;Unimed Sorocaba Cooperativa De Trabalho Med; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+348520;Notre Dame Intermedica Minas Gerais Saude S; Acima de 500.000 beneficiarios;Sudeste;ativa
+348830;Plena Saude S.A.; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+348899;Unimed Centro Sul Do Ceara - Cooperativa De;0;0;inativa
+349011;Uniodonto De Rio Claro Cooperativa Odontolo; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+349283;Uniodonto De Aracaju Coop De Trabalho Odont; 1 a 5.000 beneficiarios;Nordeste;ativa
+349291;Mais Dental Planos Odontologicos Ltda; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+349534;Unimed Sete Lagoas Cooperativa Trabalho Med;0;0;inativa
+349682;Doctor Clin Operadora De Planos De Saude Lt; 100.001 a 500.000 beneficiarios;Sul;ativa
+349712;Unimed Ponta Grossa Cooperativa De Trabalho; 100.001 a 500.000 beneficiarios;Sul;ativa
+349739;Unimed Alegrete/Rs - Sociedade Cooperativa;0;0;inativa
+350141;Parana Clinicas - Planos De Saude S/A; 50.001 a 100.000 beneficiarios;Sul;ativa
+350249;H.B. Saude S/A.; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+350290;Uniodonto De Taquaritinga Cooperativa Odont; 1 a 5.000 beneficiarios;Sudeste;ativa
+350346;Unimed Caceres Cooperativa De Trabalho Medi; 1 a 5.000 beneficiarios;Centro Oeste;ativa
+350371;Unimed Do Sudoeste Cooperativa De Trabalho; 20.001 a 50.000 beneficiarios;Nordeste;ativa
+350494;Uniodonto De Campinas Cooperativa Odontolog; Acima de 500.000 beneficiarios;Sudeste;ativa
+350630;Uniodonto De Votuporanga Cooperativa Odonto; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+350648;Unimed Regiao Da Campanha/Rs - Cooperativa; 5.001 a 10.000 beneficiarios;Sul;ativa
+350699;Centro Hospitalar Atibaia Ltda.; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+350770;Uniodonto De Londrina Coop. Odontologica; 20.001 a 50.000 beneficiarios;Sul;ativa
+351202;Unimed De Ribeirao Preto - Cooperativa De T; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+351270;Poli Saude Operadora De Plano De Saude Ltda; 10.001 a 20.000 beneficiarios;Sul;ativa
+351351;Multi - Bucal Odontologia Ltda - Ltda; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+351407;Unimed De Catanduva - Cooperativa De Trabal; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+351628;Wm Administracao De Planos Odontologicos Lt; 1 a 5.000 beneficiarios;Sul;ativa
+351776;Unimed De Registro Cooperativa De Trabalho; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+351792;Unimed Foz Do Iguacu Cooperativa Trabalho M;0;0;inativa
+352152;Arm Planos Odontologicos Ltda.; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+352179;Unimed Fronteira Noroeste/Rs - Cooperativa; 20.001 a 50.000 beneficiarios;Sul;ativa
+352314;Unimed Joao Monlevade Cooperativa De Trabal; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+352331;Caixa Beneficente Dos Funcionarios Do Banco; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+352501;Unimed Porto Alegre - Cooperativa Medica Lt; Acima de 500.000 beneficiarios;Sul;ativa
+352519;Unimed Alto Jacui/Rs - Cooperativa De Assis; 5.001 a 10.000 beneficiarios;Sul;ativa
+352543;Unimed Maranhao Do Sul - Cooperativa De Tra; 50.001 a 100.000 beneficiarios;Nordeste;ativa
+352586;Sistemas E Planos De Saude Ltda.; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+352683;Unimed De Campos Cooperativa De Trabalho Me; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+352888;Nuclebras Equipamentos Pesados S/A - Nuclep; 1 a 5.000 beneficiarios;Sudeste;ativa
+353027;Unimed Sul Paulista - Cooperativa De Trabal; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+353060;Unimed Patos De Minas Cooperativa Trabalho; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+353264;Santa Casa De Misericordia Hospital Sao Vic; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+353353;Unimed Teresina - Cooperativa De Trabalho M; 100.001 a 500.000 beneficiarios;Nordeste;ativa
+353477;Cooperativa De Assistencia Odontologica Val; 1 a 5.000 beneficiarios;Sul;ativa
+353663;Unimed Norte Do Mato Grosso Cooperativa De; 100.001 a 500.000 beneficiarios;Centro Oeste;ativa
+353698;Unimed Regiao Da Producao/Rs - Cooperativa; 1 a 5.000 beneficiarios;Sul;ativa
+353752;Uniodonto Coop Odont Vale Taquari E Rio Par; 10.001 a 20.000 beneficiarios;Sul;ativa
+353761;Empresa Brasileira De Correios E Telegrafos;0;0;inativa
+353876;Unimed Pontal Do Triângulo - Cooperativa De; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+353892;Cooperciso - Centro Integrado De Servico Od; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+354031;Unimed Sao Carlos - Cooperativa De Trabalho; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+354066;Unimed Uberaba Cooperativa De Trabalho Medi; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+354279;Unimed De Lins - Cooperativa De Trabalhos M; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+354295;Unimed Chapeco - Cooperativa De Trabalho Me; 50.001 a 100.000 beneficiarios;Sul;ativa
+354325;Unimed Araguari Cooperativa De Trabalho Med; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+354511;Operadora Unieste De Planos De Saude Ltda; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+354562;Irmandade Da Santa Casa De Misericordia De; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+354619;Unimed De Sao Jose Do Rio Pardo-Coop. De Tr; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+354627;Unimed De Cianorte - Cooperativa De Trabalh; 10.001 a 20.000 beneficiarios;Sul;ativa
+354678;Unimed Machado Cooperativa De Trabalho Medi; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+354686;Uniodonto De Catanduva Cooperativa Odontolo; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+354783;Unimed Franca - Sociedade Cooperativa De Se; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+354996;Unimed Alfenas Cooperativa De Trabalho Medi; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+355097;Santa Helena Assistencia Medica S/A.; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+355151;Fundacao Copel De Previdencia E Assistencia; 20.001 a 50.000 beneficiarios;Sul;ativa
+355577;Unimed De Guaratingueta-Cooperativa De Trab; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+355593;Unimed Patrocinio Cooperativa De Trabalho M; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+355691;Unimed Do Estado De Santa Catarina Fed. Est; 100.001 a 500.000 beneficiarios;Sul;ativa
+355721;Unimed De Santos Coop De Trab Medico; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+356123;Unimed Do Cariri - Sociedade Cooperativa Me; 20.001 a 50.000 beneficiarios;Nordeste;ativa
+356417;Unimed Vale Do Sinos - Cooperativa De Assis; 100.001 a 500.000 beneficiarios;Sul;ativa
+356476;Sim - Caixa De Assistencia a Saude; 10.001 a 20.000 beneficiarios;Sul;ativa
+356581;Unimed Itauna Cooperativa De Trabalho Medic; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+357022;Unimed Erechim - Cooperativa De Servicos De; 20.001 a 50.000 beneficiarios;Sul;ativa
+357138;Unimed Centro Oeste Paulista - Federacao In; 1 a 5.000 beneficiarios;Sudeste;ativa
+357260;Unimed Noroeste/Rs - Sociedade Cooperativa; 50.001 a 100.000 beneficiarios;Sul;ativa
+357391;Unimed Vitoria Cooperativa De Trabalho Medi; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+357511;Humana Saude Nordeste Ltda.; 100.001 a 500.000 beneficiarios;Nordeste;ativa
+357669;Desban - Fundacao Bdmg De Seguridade Social; 1 a 5.000 beneficiarios;Sudeste;ativa
+357715;Unimed De Mineiros Cooperativa De Trabalho; 5.001 a 10.000 beneficiarios;Centro Oeste;ativa
+358053;Select Operadora De Plano De Saude Ltda; 50.001 a 100.000 beneficiarios;Centro Oeste;ativa
+358088;Unimed Leste Paulista Cooperativa De Trabal; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+358096;Unimed Apucarana Cooperativa De Trabalho Me; 20.001 a 50.000 beneficiarios;Sul;ativa
+358282;Unimed Norte Do Parana Cooperativa Regional; 5.001 a 10.000 beneficiarios;Sul;ativa
+358339;Uniodonto Do Sul Goiano Cooperativa Odontol; 20.001 a 50.000 beneficiarios;Centro Oeste;ativa
+358436;Uniodonto Goiania Cooperativa De Cirurgioes; 100.001 a 500.000 beneficiarios;Centro Oeste;ativa
+358754;Caixa De Assistencia Dos Funcionarios Do Ba; 5.001 a 10.000 beneficiarios;Norte;ativa
+359017;Notre Dame Intermedica Saude S.A.; Acima de 500.000 beneficiarios;Sudeste;ativa
+359033;Unimed Tres Coracoes Cooperativa De Trabalh; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+359122;Caixa De Assistencia Dos Servidores Fazenda; 5.001 a 10.000 beneficiarios;Nordeste;ativa
+359289;Unimed Vale Do Aco Cooperativa De Trabalho; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+359394;Integral Servicos Odontologicos Ltda.; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+359459;Cooperativa Dos Cirurgioes Dentistas Do Est; 1 a 5.000 beneficiarios;Nordeste;ativa
+359661;Omint Servicos De Saude S.A.; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+359726;Uniodonto De Tres Rios - Cooperativa De Tra; 1 a 5.000 beneficiarios;Sudeste;ativa
+359777;Unimed Rondonopolis Cooperativa De Trabalho; 50.001 a 100.000 beneficiarios;Centro Oeste;ativa
+360244;Plano De Saude Ana Costa Ltda.; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+360414;Unimed Noroeste Fluminense - Cooperativa De; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+360449;Unimed Grande Florianopolis-Cooperativa De; 100.001 a 500.000 beneficiarios;Sul;ativa
+360783;Associacao De Saude Holambra; 1 a 5.000 beneficiarios;Sudeste;ativa
+361011;Sindifisco Nacional - Sindicato Nacional Do; 20.001 a 50.000 beneficiarios;Centro Oeste;ativa
+361461;Vivacom Planos De Saude; 10.001 a 20.000 beneficiarios;Centro Oeste;ativa
+361518;Unimed Betim Cooperativa De Trabalho Medico;0;0;inativa
+361569;Uniodonto De Joao Pessoa Cooperativa Odonto; 50.001 a 100.000 beneficiarios;Nordeste;ativa
+361593;Uniodonto Paulista-Federacao Das Cooperativ; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+361615;Unimed De Paranagua Cooperativa De Trabalho; 20.001 a 50.000 beneficiarios;Sul;ativa
+361941;Unimed De Tatui - Cooperativa De Trabalho M; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+362140;Unimed Oeste Do Para - Cooperativa De Traba; 20.001 a 50.000 beneficiarios;Norte;ativa
+362573;Unimed De Uba Cooperativa De Trabalho Medic; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+362620;Unimed Santos Dumont Sociedade Cooperativa;0;0;inativa
+362824;Uniodonto De Aracatuba Cooperativa Odontolo; 1 a 5.000 beneficiarios;Sudeste;ativa
+362832;Unimed Planalto Central/Rs - Cooperativa De; 5.001 a 10.000 beneficiarios;Sul;ativa
+362921;Dix Assistencia Medica Ltda;0;0;inativa
+363189;Hospital S.P. Ltda.; 1 a 5.000 beneficiarios;Sul;ativa
+363286;Unimed De Taubate Cooperativa De Trabalho M; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+363391;Plano Assistencial Sao Lucas Ltda; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+363766;Casa De Saude Sao Bernardo Ltda;0;0;inativa
+363855;Caixa De Assistencia Dos Empregados Da Sane; 10.001 a 20.000 beneficiarios;Centro Oeste;ativa
+364070;Unimed Tres Pontas - Cooperativa De Trabalh; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+364312;Unimed De Araraquara - Coop. De Trab. Medic; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+364584;Unimed De Volta Redonda Cooperativa De Trab; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+364592;Leader Assistencia Medica E Hospitalar Ltda; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+364860;Unimed De Tubarao - Cooperativa De Trabalho; 50.001 a 100.000 beneficiarios;Sul;ativa
+365238;Unimed De Ibitinga Cooperativa De Trabalho; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+365297;Assistencia Odontologica Especializada Ltda; 5.001 a 10.000 beneficiarios;Nordeste;ativa
+365530;Unimed De Tupa Cooperativa De Trabalho Medi; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+365645;Dona Saude Clinicas Ltda; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+365777;Unimed Noroeste Do Parana Coop De Trabalho; 20.001 a 50.000 beneficiarios;Sul;ativa
+365785;Cooperativa Odontologica Do Estado Do Amapa; 20.001 a 50.000 beneficiarios;Norte;ativa
+366064;Unimed Norte Pioneiro - Cooperativa De Trab; 10.001 a 20.000 beneficiarios;Sul;ativa
+366145;Unimed Sul Do Para Cooperativa De Trabalho;0;0;inativa
+366234;Itaipu Binacional; 5.001 a 10.000 beneficiarios;Sul;ativa
+366340;Unimed De Capivari -Cooperativa De Trabalho; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+366439;Uniodonto Porto Alegre Cooperativa Odontolo; 100.001 a 500.000 beneficiarios;Sul;ativa
+366510;Oral Saude De Ibitinga Servicos Odontologic; 1 a 5.000 beneficiarios;Sudeste;ativa
+366561;Bensaude Plano De Assistencia Medica Hospit; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+366871;Petroleo Brasileiro S.A.-Petrobras;0;0;inativa
+367087;Cooperativa Central Unimed De Cooperativas; 50.001 a 100.000 beneficiarios;Sul;ativa
+367095;Samel Plano De Saude Ltda; 100.001 a 500.000 beneficiarios;Norte;ativa
+367397;Unimed Campina Grande - Cooperativa De Trab; 20.001 a 50.000 beneficiarios;Nordeste;ativa
+367613;Unimed Campo Belo- Cooperativa De Trabalho; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+367966;Uniodonto Rio Grande-Litoral Cooperativa Od; 5.001 a 10.000 beneficiarios;Sul;ativa
+368148;Unimed Muriae Cooperativa De Trabalho Medic; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+368181;Croe - Centro De Reabilitacao Oral Especial; 1 a 5.000 beneficiarios;Sudeste;ativa
+368253;Hapvida Assistencia Medica S.A.; Acima de 500.000 beneficiarios;Nordeste;ativa
+368555;Uniodonto Belem - Cooperativa De Assistenci; 100.001 a 500.000 beneficiarios;Norte;ativa
+368920;Agros - Instituto Ufv De Seguridade Social; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+369292;Unimed De Santa Barbara D'Oeste E Americana; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+369373;Humana Saude Sul Ltda.;0;0;inativa
+369411;Unimed De Aracatuba - Cooperativa De Trabal; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+369462;Uniodonto De Limeira Cooperativa Odontologi; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+369659;Unimed De Bauru Cooperativa De Trabalho Med; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+370070;Unimed De Cascavel Cooperativa De Trabalho; 100.001 a 500.000 beneficiarios;Sul;ativa
+370088;Unimed Sao Lourenco Cooperativa De Trabalho; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+370525;Fundacao Sistel De Seguridade Social;0;0;inativa
+370568;Uniodonto Uberaba - Cooperativa De Assisten; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+370592;Funasa Saude; 1 a 5.000 beneficiarios;Nordeste;ativa
+370681;Unimed Pato Branco Sociedade Cooperativa De; 20.001 a 50.000 beneficiarios;Sul;ativa
+370711;Uniodonto Espirito Santo Cooperativa Odonto; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+370975;Unimed Vale Do Jauru Cooperativa De Trabalh; 10.001 a 20.000 beneficiarios;Centro Oeste;ativa
+371106;Unimed Costa Oeste - Cooperativa De Trabalh; 50.001 a 100.000 beneficiarios;Sul;ativa
+371254;Unimed Regional Maringa Coop.De Trabalho Me; 100.001 a 500.000 beneficiarios;Sul;ativa
+371564;Unimed Frutal Cooperativa De Trabalho Medic; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+371629;Unimed Noroeste Capixaba Cooperativa De Tra; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+371777;Unimed Norte Capixaba- Cooperativa De Traba; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+372561;Unimed Alto Vale - Cooperativa De Trabalho; 10.001 a 20.000 beneficiarios;Sul;ativa
+372609;Nossa Saude - Operadora Planos Privados De; 50.001 a 100.000 beneficiarios;Sul;ativa
+373010;Memorial Consult Ltda;0;0;inativa
+373109;Uniodonto De Sertaozinho Sp Cooperativa Odo; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+374440;Prevident Assistencia Odontologica S.A; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+378216;Fundacao Libertas De Seguridade Social; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+378682;Uniodonto De Sao Jose Do Rio Pardo - Cooper; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+378941;Uniodonto Pirassununga - Cooperativa Odonto; 1 a 5.000 beneficiarios;Sudeste;ativa
+379280;Liv Linhas Inteligentes De Atencao a Vida S; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+379956;Care Plus Medicina Assistencial Ltda.; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+380661;Metrus Instituto De Seguridade Social; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+381144;Uniodonto Maringa Cooperativa Odontologica; 20.001 a 50.000 beneficiarios;Sul;ativa
+382281;Plano De Assistencia Medica Mineira Ltda; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+382337;Uniodonto Metropolitana Cooperativa Odontol; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+382540;Associacao Beneficente Dos Professores Publ; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+382639;Associacao Dos Fiscais De Tributos Estaduai; 1 a 5.000 beneficiarios;Sul;ativa
+382655;Uniodonto Vale Historico Cooperativa Odonto; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+382876;Unimed Goiania Cooperativa De Trabalho Medi; 100.001 a 500.000 beneficiarios;Centro Oeste;ativa
+383929;Uniodonto Bahia Sul - Cooperativa Odontolog; 10.001 a 20.000 beneficiarios;Nordeste;ativa
+384577;Unimed Uberlândia Cooperativa Regional Trab; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+384704;Associacao Dos Empregados Da Companhia Esta; 1 a 5.000 beneficiarios;Nordeste;ativa
+384844;Prest Odonto Ltda; 1 a 5.000 beneficiarios;Sudeste;ativa
+385255;Unihosp Saude Ltda; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+385620;Unimed De Lorena Cooperativa De Trabalho Me; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+385697;Caixa De Assistencia Dos Funcionarios Do Ba; 20.001 a 50.000 beneficiarios;Nordeste;ativa
+386219;Dental Care Clinica Odontologica Ltda; 1 a 5.000 beneficiarios;Sudeste;ativa
+386588;Unimed Governador Valadares Coop. De Trabal; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+386596;Central Regional Das Cooperativas Medicas -; 20.001 a 50.000 beneficiarios;Centro Oeste;ativa
+386901;Unimed Leopoldina Cooperativa De Trabalho M; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+387185;Associacao Dos Auditores Fiscais Da Receita; 1 a 5.000 beneficiarios;Sudeste;ativa
+388092;Associacao Dos Funcionarios Fiscais Do Esta; 1 a 5.000 beneficiarios;Norte;ativa
+389358;Care Plus Odontologia Assistencial Ltda.; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+389421;Unimed Mossoro - Cooperativa De Trabalhos M;0;0;inativa
+389854;Odontogroup Sistema De Saude Ltda.; 100.001 a 500.000 beneficiarios;Centro Oeste;ativa
+390259;Comseder - Cooperativa De Assistencia Medic; 1 a 5.000 beneficiarios;Nordeste;ativa
+392405;Companhia Espirito Santense De Saneamento; 1 a 5.000 beneficiarios;Sudeste;ativa
+392804;Centro Clinico Gaucho Ltda; 100.001 a 500.000 beneficiarios;Sul;ativa
+393321;Unimed-Rio Cooperativa De Trabalho Medico D; Sem Beneficiarios;Sudeste;ativa
+393533;Associacao Do Fisco De Alagoas; 1 a 5.000 beneficiarios;Nordeste;ativa
+394271;Associacao Dos Funcionarios Publicos Do Esp;0;0;inativa
+394734;Ameplan Assistencia Medica Planejada Ltda; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+395480;Esmale Assistencia Internacional De Saude L; 10.001 a 20.000 beneficiarios;Nordeste;ativa
+397245;Crown Odontologia De Grupo Ltda; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+400190;Santo Andre Planos De Assistencia Medica Lt; 1 a 5.000 beneficiarios;Sudeste;ativa
+400289;Sul America Servicos Medicos S.A.;0;0;inativa
+400556;Uniodonto De Feira De Santana - Cooperativa; 1 a 5.000 beneficiarios;Nordeste;ativa
+400572;Cooperativa Evidente - Cooperativa De Traba; 1 a 5.000 beneficiarios;Sudeste;ativa
+400882;Apice Odonto Assistencia Odontologica Ltda; 1 a 5.000 beneficiarios;Sudeste;ativa
+400891;Empresa Brasileira De Infra-Estrutura Aerop; 1 a 5.000 beneficiarios;Centro Oeste;ativa
+401072;Unidental- Cooperativa Uniao Dos Dentistas; 5.001 a 10.000 beneficiarios;Nordeste;ativa
+401081;Amesc - Associacao Medica Espirita Crista; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+401463;Dentalmaster Comercio De Planos Odontologic; Sem Beneficiarios;Nordeste;ativa
+401480;Evangelico Saude Ltda.; 5.001 a 10.000 beneficiarios;Sul;ativa
+401871;Ceorp - Centro Odontologico Ltda; 1 a 5.000 beneficiarios;Sudeste;ativa
+402001;Sistema Total De Saude Ltda.; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+402010;Cooperativa Odontologica Regiao Sul Da Bahi; 10.001 a 20.000 beneficiarios;Nordeste;ativa
+402095;Sito - Sistema Integrado De Tratamento Odon; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+402109;Uniodonto Paulo Afonso Cooperativa De Traba; 1 a 5.000 beneficiarios;Nordeste;ativa
+402206;Associacao Goiana Do Ministerio Publico; 1 a 5.000 beneficiarios;Centro Oeste;ativa
+402516;Uniodonto De Campos - Cooperativa Odontolog; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+402851;Massa Falida De Multi Servicos Apoio Admini;0;0;inativa
+402966;Bio Saude Servicos Medicos Ltda; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+403245;Soprevi Servico Odontologico Preventivo Int; 5.001 a 10.000 beneficiarios;Sul;ativa
+403458;Plenodonto Assistencia Odontologica Ltda.; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+403512;Uniodonto Arapiraca Cooperativa De Trabalho; 5.001 a 10.000 beneficiarios;Nordeste;ativa
+403555;Hokken Med Projetos E Administracao Em Saud;0;0;inativa
+403636;Previna Odontologia Ltda; 1 a 5.000 beneficiarios;Sudeste;ativa
+403865;Sistema Integrado De Saude Oral Ltda-Epp; 5.001 a 10.000 beneficiarios;Nordeste;ativa
+403911;Vision Med Assistencia Medica Ltda - Em Liq;0;0;inativa
+403962;Sao Francisco Assistencia Medica Ltda; 10.001 a 20.000 beneficiarios;Nordeste;ativa
+403997;Uniodonto De Rio Branco Acre Cooperativa Od; 5.001 a 10.000 beneficiarios;Norte;ativa
+404241;Cooperativa Dos Usuarios De Servicos De Sau; 1 a 5.000 beneficiarios;Sul;ativa
+404772;Orion Odontologia Ltda; 1 a 5.000 beneficiarios;Sudeste;ativa
+404942;Unificacao Dos Dentistas De Ituverava Ltda; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+405582;Santos Vip Assistencia Odontologica Ltda; 1 a 5.000 beneficiarios;Norte;ativa
+405671;Odonto Plus Convenio Odontologico Sociedade; 1 a 5.000 beneficiarios;Sul;ativa
+405795;Estrategia Saude Ltda;0;0;inativa
+405931;Construdente Assistencia Odontologica Ltda; 1 a 5.000 beneficiarios;Sudeste;ativa
+406121;Uniodonto Resende - Cooperativa Odontologic; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+406414;Odonto Life Assistencia Odontologica S/A.; 1 a 5.000 beneficiarios;Sul;ativa
+406481;Metlife Planos Odontologicos Ltda.; Acima de 500.000 beneficiarios;Sudeste;ativa
+406554;Associacao Adventista Norte Brasileira De P; 20.001 a 50.000 beneficiarios;Norte;ativa
+406635;Associacao Policial De Assistencia A Saude; 1 a 5.000 beneficiarios;Sudeste;ativa
+406805;Cooperativa Dos Usuarios De Servicos De Sau; 5.001 a 10.000 beneficiarios;Sul;ativa
+406813;Associacao Policial De Assistencia a Saude; 1 a 5.000 beneficiarios;Sudeste;ativa
+406937;Associacao Policial De Assistencia a Saude; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+406945;Associacao Policial De Assistencia a Saude; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+407011;Gama Saude Ltda.; 1 a 5.000 beneficiarios;Sudeste;ativa
+407224;Sepaco Saude Ltda; 1 a 5.000 beneficiarios;Sudeste;ativa
+407241;Coop-Odontoclassic - Cooperativa De Trabalh; 1 a 5.000 beneficiarios;Sudeste;ativa
+407534;Onix Operadora De Planos De Saude Ltda; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+407569;Associacao Policial De Assistencia a Saude; 1 a 5.000 beneficiarios;Sudeste;ativa
+408026;Associacao Policial De Assistencia a Saude; 1 a 5.000 beneficiarios;Sudeste;ativa
+408034;Associacao Policial De Assistencia a Saude; 1 a 5.000 beneficiarios;Sudeste;ativa
+408093;Associacao Policial De Assistencia A Saude; 1 a 5.000 beneficiarios;Sudeste;ativa
+408263;Associacao Policial De Assistencia a Saude; 1 a 5.000 beneficiarios;Sudeste;ativa
+408522;Santa Casa Da Misericordia De Sao Joao Del; 1 a 5.000 beneficiarios;Sudeste;ativa
+408794;Associacao Policial De Assistencia a Saude; 1 a 5.000 beneficiarios;Sudeste;ativa
+408883;Centro Medico Fatima Ltda;0;0;inativa
+409243;Saude Pas - Medicina E Odonto; 20.001 a 50.000 beneficiarios;Sul;ativa
+409286;G & M Assessoria Medica Empresarial Ltda -; 1 a 5.000 beneficiarios;Sudeste;ativa
+409405;Associacao Policial De Assistencia a Saude; 1 a 5.000 beneficiarios;Sudeste;ativa
+409413;Associacao Policial De Assistencia A Saude; 1 a 5.000 beneficiarios;Sudeste;ativa
+409634;Associacao Civil Pro-Saude Dos Servidores D; 1 a 5.000 beneficiarios;Sul;ativa
+409791;Cooperativa Odontologica Pocos De Caldas; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+410071;Clinica Odontologica Odontoplan Ltda; 1 a 5.000 beneficiarios;Sul;ativa
+410110;Associacao Policial De Assistencia A Saude; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+410128;Associacao Policial De Assistencia a Saude; 1 a 5.000 beneficiarios;Sudeste;ativa
+410292;Fundacao Leonor De Barros Camargo; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+410527;Dentprev Assistëncia Odontologica Ltda;0;0;inativa
+410608;Associacao Policial De Assistencia A Saude; 1 a 5.000 beneficiarios;Sudeste;ativa
+410624;Confianca Assistencia Medico Hospitalar Ltd; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+410888;Filosanitas Saude Ltda; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+411248;Associacao Policial De Assistencia a Saude; 1 a 5.000 beneficiarios;Sudeste;ativa
+411256;Plano Hospital Samaritano Ltda; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+411264;Asl - Assistencia a Saude Ltda;0;0;inativa
+411582;Plano De Saude Ases Ltda.; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+411752;Associacao Assistencial De Saude Suplementa; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+411809;Sociedade De Assistencia Medica - Sameisa; 1 a 5.000 beneficiarios;Sul;ativa
+411868;Medic Global Planos De Saude Ltda.; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+412015;Mh Vida - Operadora De Planos De Saude Ltda; 1 a 5.000 beneficiarios;Sudeste;ativa
+412040;Odontoreal Ltda.; 5.001 a 10.000 beneficiarios;Nordeste;ativa
+412058;Sbc Saude Ltda.; 1 a 5.000 beneficiarios;Sudeste;ativa
+412252;Tuiuiu Administradores De Plano De Saude Lt; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+412295;Caixa De Assistencia a Saude Dos Empregados; 1 a 5.000 beneficiarios;Centro Oeste;ativa
+412490;Lider Comercio E Industria Ltda.; 10.001 a 20.000 beneficiarios;Norte;ativa
+412635;Associacao Valeparaibana De Assistencia Med; 1 a 5.000 beneficiarios;Sudeste;ativa
+412759;Terramar Administradora De Plano De Saude L; 10.001 a 20.000 beneficiarios;Nordeste;ativa
+412996;Orale Assistencia Odontologica Ltda; 20.001 a 50.000 beneficiarios;Nordeste;ativa
+413160;Gs Plano Global De Saude Ltda; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+413194;Santa Rita Sistema De Saude Ltda;0;0;inativa
+413267;Prevent Senior Corporate Operadora De Saude; 1 a 5.000 beneficiarios;Sudeste;ativa
+413275;Clinica Sao Jose Saude Ltda.;0;0;inativa
+413283;Aesp Odonto Assistencia Odontologica S/S Lt; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+413313;Irmandade De Misericordia De Americana;0;0;inativa
+413330;Amep Freguesia Operadora De Plano De Saude; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+413348;Universal Plano Odontologico Ltda; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+413372;Sociedade Portuguesa De Beneficencia; 5.001 a 10.000 beneficiarios;Sul;ativa
+413402;Massa Falida De Unilife Saude Ltda.;0;0;inativa
+413429;Unidentis Assistencia Odontologica Ltda.; 100.001 a 500.000 beneficiarios;Nordeste;ativa
+413518;Caixa De Assistencia Do Sindfisco - Cassind; 1 a 5.000 beneficiarios;Nordeste;ativa
+413534;Caixa De Assistencia Dos Servidores Do Esta; 100.001 a 500.000 beneficiarios;Centro Oeste;ativa
+413551;Plamedh - Plano De Assistencia Medico-Hospi; 1 a 5.000 beneficiarios;Sudeste;ativa
+413721;Sociedade Beneficente Dezoito De Julho; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+413747;Dental Master Ltda - Epp; 20.001 a 50.000 beneficiarios;Nordeste;ativa
+413941;Sociedade De Assistencia Odontologica De Gr; 10.001 a 20.000 beneficiarios;Nordeste;ativa
+414026;Caixa Beneficente Dos Funcionarios Do Grupo; 1 a 5.000 beneficiarios;Sul;ativa
+414204;Extramed Administracao E Servicos Medicos L; Sem Beneficiarios;Sul;ativa
+414212;Associacao Policial De Assistencia a Saude; 1 a 5.000 beneficiarios;Sudeste;ativa
+414247;Volvo Do Brasil Veiculos Ltda.; 10.001 a 20.000 beneficiarios;Sul;ativa
+414298;Ecole Servicos Medicos Ltda;0;0;inativa
+414310;Saude Brb - Caixa De Assistencia; 10.001 a 20.000 beneficiarios;Centro Oeste;ativa
+414352;Hbc Saude Ltda.; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+414387;Odontoart Planos Odontologicos Ltda; 100.001 a 500.000 beneficiarios;Nordeste;ativa
+414425;Dentsy Odontologia S/S Ltda.; 1 a 5.000 beneficiarios;Sudeste;ativa
+414450;Jardim America Saude Ltda.;0;0;inativa
+414492;Life Empresarial Saude Ltda.; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+414557;Idental Assistencia Odontologica Ltda - Me; 5.001 a 10.000 beneficiarios;Nordeste;ativa
+414573;Unimed Centro Paulista - Federacao Intrafed; 1 a 5.000 beneficiarios;Sudeste;ativa
+414581;Uniao Medica Planos De Saude S/A; 50.001 a 100.000 beneficiarios;Nordeste;ativa
+414654;Sempre Odonto Planos Odontologicos Ltda; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+414662;Viventeris Ltda; 100.001 a 500.000 beneficiarios;Sul;ativa
+414689;Fundo De Assistencia a Saude Dos Funcionari; 1 a 5.000 beneficiarios;Nordeste;ativa
+414701;Servdonto - Plano De Assistencia Odontologi; 100.001 a 500.000 beneficiarios;Nordeste;ativa
+414891;Uniodonto - Cooperativa Odontologica De Car; 1 a 5.000 beneficiarios;Nordeste;ativa
+414905;Vita Assistencia A Saude Ltda.; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+414921;Ideal Odonto Assistencia Odontologica Ltda.; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+414930;Saude Santa Tereza Ltda.; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+414981;Instituto De Odontologia Do Maranhao Ltda.; 1 a 5.000 beneficiarios;Nordeste;ativa
+415014;Unimed Os Bandeirantes Cooperativa De Traba; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+415057;Newklin Odontoclinica Ltda. Me.; Sem Beneficiarios;Centro Oeste;ativa
+415065;Mais Saude Plano De Saude Ltda; 10.001 a 20.000 beneficiarios;Centro Oeste;ativa
+415081;Porto Dias Saude Ltda.; 1 a 5.000 beneficiarios;Norte;ativa
+415111;Biovida Saude Ltda.; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+415243;Rodrigues Leira Odontologia Ltda.; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+415260;Instituto De Saude Odontologica - Isodont L; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+415405;Fundacao Santa Casa De Misericordia De Belo;0;0;inativa
+415626;Federacao Das Coop Odontologicas Do Estado; 100.001 a 500.000 beneficiarios;Sul;ativa
+415693;Policlin Saude S/A.; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+415774;Caberj Integral Saude S.A; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+415782;Parra Odontologia Ltda; 1 a 5.000 beneficiarios;Sudeste;ativa
+415821;Rope Odontologia Especializada S/S Ltda.; 1 a 5.000 beneficiarios;Sudeste;ativa
+415871;Solimeo Assistencia Odontologica Ltda.; 1 a 5.000 beneficiarios;Sudeste;ativa
+415898;Sociedade Benecap De Assistencia a Saude; 1 a 5.000 beneficiarios;Centro Oeste;ativa
+415901;Same-Servico De Assistencia Medica Empresar; 1 a 5.000 beneficiarios;Nordeste;ativa
+415910;Centro De Endocrinologia De Jundiai S/S Ltd; 1 a 5.000 beneficiarios;Sudeste;ativa
+415936;Plano Odontologico Dentalvidas Ltda.; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+415944;Clinica Sao Gabriel S/S Ltda; 1 a 5.000 beneficiarios;Sudeste;ativa
+415952;Cda - Assistencia Odontologica Ltda - Epp; 1 a 5.000 beneficiarios;Sudeste;ativa
+415987;Plano Vida Saude Servicos Odontologicos Ltd; 20.001 a 50.000 beneficiarios;Nordeste;ativa
+416070;Arcelormittal Brasil S/A; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+416118;Dana Industrias Ltda.; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+416193;Top Doctor'S Odontologia Ltda; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+416282;E.X.M Brasil Saude Ltda; Sem Beneficiarios;Nordeste;ativa
+416371;Orion Planos E Servicos Odontologicos Ltda; 1 a 5.000 beneficiarios;Sudeste;ativa
+416398;Hospitais E Clinicas Do Piaui S/S Ltda; 20.001 a 50.000 beneficiarios;Nordeste;ativa
+416401;Caixa De Assistencia Dos Empregados Da Empr; 20.001 a 50.000 beneficiarios;Centro Oeste;ativa
+416410;Sociodonto Plano De Assistencia Odontologic; 1 a 5.000 beneficiarios;Sudeste;ativa
+416428;Sul America Parana Clinicas Servicos De Sau; Acima de 500.000 beneficiarios;Sudeste;ativa
+416495;Matao Clinicas & Amhma Saude Ltda; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+416509;Companhia Docas Do Espirito Santo - Codesa; 1 a 5.000 beneficiarios;Sudeste;ativa
+416517;Planodente Ltda.; 1 a 5.000 beneficiarios;Sudeste;ativa
+416525;Prima Vida Odontologia De Grupo Limitada; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+416568;Associacao De Assistencia a Saude Dos Empre; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+416584;Associacao Fundo De Protecao a Saude; 20.001 a 50.000 beneficiarios;Sul;ativa
+416657;Caixa Assistencial Dos Auditores Fiscais Da; Sem Beneficiarios;Sudeste;ativa
+416690;Associacao De Assistencia a Saude Da Amagis; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+416703;Mineracao Caraiba S/A; 5.001 a 10.000 beneficiarios;Nordeste;ativa
+416738;Oeste Saude Assistencia A Saude Suplementar; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+416789;Vidamax Administradora De Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+416801;Unimed Saude E Odonto S.A; Acima de 500.000 beneficiarios;Sudeste;ativa
+416819;Gkn Do Brasil Ltda; 1 a 5.000 beneficiarios;Sul;ativa
+416835;Maciel & Maciel Assistencia Odontologica Lt; 1 a 5.000 beneficiarios;Sudeste;ativa
+416908;Dentalplan Planos De Assistencia Odontologi; 1 a 5.000 beneficiarios;Nordeste;ativa
+416932;Admserv Beneficios E Servicos Ltda; Sem Beneficiarios;Sudeste;ativa
+416975;Alcance Saude Ltda;0;0;inativa
+417050;Ibbca 2008 Gestao Em Saude Ltda; Sem Beneficiarios;Sudeste;ativa
+417092;Central Operadora De Planos De Saude Norte-; 1 a 5.000 beneficiarios;Nordeste;ativa
+417106;Plano De Assistencia Odontologica Fauchard; 20.001 a 50.000 beneficiarios;Nordeste;ativa
+417114;Topdonto Operadora De Plano Odontologico Lt; 20.001 a 50.000 beneficiarios;Nordeste;ativa
+417122;Voce Clube De Beneficios Sociais, Saude E O; Sem Beneficiarios;Sudeste;ativa
+417131;Qualidonto - Qualidade Em Odontologia Ltda; 20.001 a 50.000 beneficiarios;Nordeste;ativa
+417149;Riberdente Servicos Odontologicos S/S Ltda; 1 a 5.000 beneficiarios;Sudeste;ativa
+417165;Case - Central De Administracao De Plano De; Sem Beneficiarios;Sudeste;ativa
+417173;Qualicorp Administradora De Beneficios S.A.; Sem Beneficiarios;Sudeste;ativa
+417211;Associacao Mineira De Assistencia a Saude D; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+417220;Associacao Servicos Odontologicos Da Indust; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+417238;Brf S/A; 100.001 a 500.000 beneficiarios;Sul;ativa
+417289;All Care Administradora De Beneficios Sao P; Sem Beneficiarios;Sudeste;ativa
+417297;Elosaude - Associacao De Assistencia a Saud; 10.001 a 20.000 beneficiarios;Sul;ativa
+417301;Valem Administradora De Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+417343;Ecs Administradora De Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+417424;Affix Administradora De Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+417441;Ev Administradora De Beneficios Ltda; Sem Beneficiarios;Norte;ativa
+417459;Allcare Administradora De Beneficios Em Sau; Sem Beneficiarios;Centro Oeste;ativa
+417475;Pronto Socorro Conde De Moreira Lima; 1 a 5.000 beneficiarios;Sudeste;ativa
+417491;Portomed - Porto Seguro Servicos De Saude L; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+417505;Cemig Saude; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+417530;Associacao De Saude Portuguesa De Beneficen; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+417548;Caixa De Assistencia Oswaldo Cruz; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+417564;Mapma Administradora De Beneficios Ltda.; Sem Beneficiarios;Sudeste;ativa
+417581;Vallor Administradora De Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+417599;Associacao Dos Funcionarios Publicos Do Est; 20.001 a 50.000 beneficiarios;Sul;ativa
+417602;Servix Administradora De Beneficios Ltda; Sem Beneficiarios;Centro Oeste;ativa
+417611;Health Administradora De Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+417661;Caixa De Assistencia a Saude Do Sindicato D; 1 a 5.000 beneficiarios;Nordeste;ativa
+417696;Maxmed Administradora De Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+417718;Benevix Administradora De Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+417742;Alacoro Casf Associacao Clube De Beneficios; Sem Beneficiarios;Sudeste;ativa
+417751;Pluriclub Administradora De Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+417769;Assiste Administradora De Beneficios Ltda; Sem Beneficiarios;Nordeste;ativa
+417785;Campea Administradora De Beneficios Ltda.; Sem Beneficiarios;Sul;ativa
+417815;Sul America Odontologico S/A; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+417823;Premium Saude S.A.;0;0;inativa
+417831;Odontolive Operadora De Planos Odontologico; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+417840;Novodente S/A; 100.001 a 500.000 beneficiarios;Sul;ativa
+417874;Bem Mais Odonto Operadora Odontologica Ltda; 1 a 5.000 beneficiarios;Sudeste;ativa
+417891;Clube De Beneficios Para Coop., Ass., Cons.; Sem Beneficiarios;Sudeste;ativa
+417947;Associacao Da Santa Casa Saude De Ribeirao; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+417955;Associacao De Assistencia Medico Hospitalar; 1 a 5.000 beneficiarios;Sul;ativa
+417998;Interbrasil Administradora De Beneficios  D; Sem Beneficiarios;Sudeste;ativa
+418013;Baccs Administradora De Beneficios Ltda; Sem Beneficiarios;Nordeste;ativa
+418021;Associacao Santa Saude; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+418030;A.P.S. Administradora De Beneficos Ltda.; Sem Beneficiarios;Sudeste;ativa
+418048;Mais Voce Administradora De Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+418072;Caixa Seguradora Especializada Em Saude S/A; 1 a 5.000 beneficiarios;Sudeste;ativa
+418111;Odontoclinica Rcc Ltda. S/S; 1 a 5.000 beneficiarios;Sul;ativa
+418129;Fundo De Assistencia Medico-Hospitalar Do M; 1 a 5.000 beneficiarios;Centro Oeste;ativa
+418137;Unix Saude S.A; 5.001 a 10.000 beneficiarios;Nordeste;ativa
+418170;Quallity Pro Saude Plano De Assistencia Med; 100.001 a 500.000 beneficiarios;Centro Oeste;ativa
+418196;Ramed Administradora De Beneficios Ltda.; Sem Beneficiarios;Sudeste;ativa
+418200;Oral Blue Ltda; 5.001 a 10.000 beneficiarios;Norte;ativa
+418218;Associacao Saude Rural Alegrete; 1 a 5.000 beneficiarios;Sul;ativa
+418226;Oplan Saude Operadora De Plano De Saude Ltd; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+418242;Cooperativa De Saude Odontologica - Uniodon; 1 a 5.000 beneficiarios;Norte;ativa
+418277;Independencia Administradora De Beneficios; Sem Beneficiarios;Sudeste;ativa
+418285;Fundacao Fiat Saude E Bem Estar; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+418307;Previsao Administradora De Beneficios Ltda.; Sem Beneficiarios;Sudeste;ativa
+418323;Contem Administradora De Planos De Saude Lt; Sem Beneficiarios;Sudeste;ativa
+418340;Integral Convenio Odontologico Ltda.; 1 a 5.000 beneficiarios;Sudeste;ativa
+418374;Luminar Saude - Associacao De Assistencia a; 10.001 a 20.000 beneficiarios;Centro Oeste;ativa
+418439;Safe Life Administradora De Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+418447;Oral Gam Assistencia Odontologica Ltda; 1 a 5.000 beneficiarios;Sudeste;ativa
+418501;Fundacao Plamhuv - Plano Medico Hospitalar; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+418528;Uniben Administradora De Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+418536;Like Dental Planos Odontologicos Ss Ltda; Sem Beneficiarios;Sul;ativa
+418552;Plural Gestao Em Planos De Saude Ltda; Sem Beneficiarios;Sudeste;ativa
+418587;Amha Saude S/A; 1 a 5.000 beneficiarios;Sudeste;ativa
+418595;Life Class Administradora De Beneficios Ltd; Sem Beneficiarios;Sudeste;ativa
+418617;Associacao Paranaense De Assistencia a Saud; 1 a 5.000 beneficiarios;Sul;ativa
+418625;Porto Seguro Servicos Odontologicos Ltda.; 1 a 5.000 beneficiarios;Sudeste;ativa
+418650;Mutua Dos Magistrados Do Estado Do Rio De J; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+418692;Resolve Administradora De Beneficios Ltda; Sem Beneficiarios;Nordeste;ativa
+418706;Lexus Administradora De Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+418731;Associacao De Saude Dos Fornecedores De Can; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+418749;Cedplan Saude Ltda Epp; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+418757;Corplife Administradora De Beneficios Ltda; Sem Beneficiarios;Sul;ativa
+418773;Aluves Administradora De  Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+418781;Saude Casseb Assistencia Medica Ltda - Em L;0;0;inativa
+418790;Sistema 1 Servicos De Assistencia a Saude S; 5.001 a 10.000 beneficiarios;Sul;ativa
+418803;Associacao Santa Casa Saude De Aracatuba; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+418820;Caixa De Assistencia Aos Membros Da Defenso; 1 a 5.000 beneficiarios;Sudeste;ativa
+418854;Insolvencia Civil De Associacao Metropolita;0;0;inativa
+418862;Rbs Participacoes S/A; 1 a 5.000 beneficiarios;Sul;ativa
+418901;Ad Salute Administradora De Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+418919;Associacao Saude Sao Jose; 20.001 a 50.000 beneficiarios;Sul;ativa
+418927;Easy Saude Administradora De Beneficios Ltd; Sem Beneficiarios;Sudeste;ativa
+418960;Corpore Administradora De Beneficios Da Sau; Sem Beneficiarios;Sudeste;ativa
+418986;Platinum Administradora De Beneficios; Sem Beneficiarios;Centro Oeste;ativa
+418994;Odonto Prime S/S Ltda; 20.001 a 50.000 beneficiarios;Nordeste;ativa
+419010;Instituto Curitiba De Saude; 50.001 a 100.000 beneficiarios;Sul;ativa
+419028;Cooperativa De Trabalho Odontologico - Unio; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+419052;Amazonia Planos De Saude Ltda; 10.001 a 20.000 beneficiarios;Norte;ativa
+419061;Usodonto Planos De Saude Ltda; 1 a 5.000 beneficiarios;Norte;ativa
+419079;Bioral Sistema Odontologico Ltda.; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+419095;Lancers Administradora De Beneficios De Sau; Sem Beneficiarios;Sudeste;ativa
+419125;Bedois Servicos De Administracao De Benefic; Sem Beneficiarios;Sudeste;ativa
+419133;Postal Saude Caixa De Assistencia E Saude D; 100.001 a 500.000 beneficiarios;Centro Oeste;ativa
+419141;Associacao Sao Francisco Vida; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+419150;Associacao Mais Saude Santa Casa De Sao Joa; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+419184;Odontomais Servicos Odontologicos Ltda - Me; 10.001 a 20.000 beneficiarios;Nordeste;ativa
+419231;Win - Administradora De Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+419249;Associacao Santa Casa Saude De Sao Jose Dos; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+419257;Bci Administradora De Beneficios Ltda.; Sem Beneficiarios;Sudeste;ativa
+419265;Capital Administradora De Beneficios Ltda.; Sem Beneficiarios;Centro Oeste;ativa
+419281;Odonto Seg Operadora De Planos Odontologico; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+419290;Qualicorp Clube De Saude Administradora De; Sem Beneficiarios;Sudeste;ativa
+419303;Hebrom Administradora De Beneficios Ltda. -; Sem Beneficiarios;Sudeste;ativa
+419354;Zurich Santander Brasil Odonto Ltda.; Sem Beneficiarios;Sudeste;ativa
+419362;Massa Falida De Hospital Bom Samaritano S/S;0;0;inativa
+419389;Qv Beneficios Em Saude Ltda; Sem Beneficiarios;Sudeste;ativa
+419419;Brasildental Operadora De Planos Odontologi; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+419427;Instituicao Beneficente Cel Massot - Ibcm; 20.001 a 50.000 beneficiarios;Sul;ativa
+419435;Classe Administradora De Beneficios Ltda -; Sem Beneficiarios;Centro Oeste;ativa
+419443;G2C Administradora De Beneficios Ltda - Me; Sem Beneficiarios;Sudeste;ativa
+419486;Pladisa Planos De Saude Sa; 10.001 a 20.000 beneficiarios;Sul;ativa
+419516;Mais Saude S/A; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+419524;Sorriden Convenios Odontologicos S.A.; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+419559;Med Corp Saude Corporativa Ltda - Epp; Sem Beneficiarios;Sudeste;ativa
+419567;Saluplan Administradora De Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+419583;Odontomaxi Operadora De Planos Odontologico; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+419591;Associacao Dos Servidores Publicos Da Admin; 1 a 5.000 beneficiarios;Norte;ativa
+419613;Brazil Dental Operadora De Planos Odontolog; 1 a 5.000 beneficiarios;Sudeste;ativa
+419621;Abplus Administradora De Beneficios Ltda.; Sem Beneficiarios;Sudeste;ativa
+419699;Operadora De Planos Privados De Saude - San; 10.001 a 20.000 beneficiarios;Centro Oeste;ativa
+419729;Uniodonto Passos - Cooperativa Odontologica; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+419753;Medgold Assistencia Medica Ltda - Me; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+419761;18 De Julho Administradora De Beneficios Lt; Sem Beneficiarios;Sudeste;ativa
+419796;Companhia Das Docas Do Estado Da Bahia - Co; 1 a 5.000 beneficiarios;Nordeste;ativa
+419818;Fr Plano Odontologico Ltda; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+419851;Caixa De Assistencia a Saude Dos Trabalhado; 5.001 a 10.000 beneficiarios;Sul;ativa
+419869;Benefit Administradora De Beneficios Ltda.; Sem Beneficiarios;Sudeste;ativa
+419907;Affiance Life Administradora De Beneficios; Sem Beneficiarios;Sudeste;ativa
+419931;Geac - Gerenciamento Empresarial Ltda; Sem Beneficiarios;Sudeste;ativa
+419958;Associacao Plano De Saude Santa Casa De Val; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+419974;Associacao Plame De Saude; 1 a 5.000 beneficiarios;Sudeste;ativa
+419982;Alpha Dental Plano De Saude Ltda Me; 1 a 5.000 beneficiarios;Centro Oeste;ativa
+419991;Oros Operadora De Planos Odontologicos Ltda; 1 a 5.000 beneficiarios;Sudeste;ativa
+420000;Associacao Do Plano De Saude Da Santa Casa; 10.001 a 20.000 beneficiarios;Nordeste;ativa
+420018;Vectorial Administradora De Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+420042;Best Life Assessoria Na Gestao E Administra; Sem Beneficiarios;Sudeste;ativa
+420051;Smart Care Sistemas Medicos E Odontologicos; Sem Beneficiarios;Sudeste;ativa
+420077;Servico Social Da Industria Do Papel, Papel; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+420085;Santa Casa De Saude - Scs; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+420093;Associacao Dos Servidores Da Emdagro - Asse; 1 a 5.000 beneficiarios;Nordeste;ativa
+420107;Uniconsult - Administradora De Beneficios E; Sem Beneficiarios;Sudeste;ativa
+420123;Associacao Univida Santa Rita Do Passa Quat; 1 a 5.000 beneficiarios;Sudeste;ativa
+420140;Muito Mais Saude Administradora De Benefici; Sem Beneficiarios;Sudeste;ativa
+420158;Associacao Padre Albino Saude; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+420166;Plano De Saude Da Santa Casa De Braganca Pa; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+420239;Dental Care Assistencia Odontologica Ltda; 1 a 5.000 beneficiarios;Nordeste;ativa
+420247;Compar Administradora De Beneficios Ltda -; Sem Beneficiarios;Sul;ativa
+420255;Alter Administradora De Beneficios S.A.; Sem Beneficiarios;Sudeste;ativa
+420271;R.M.I. Operadora De Saude Integrada Ltda; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+420280;Positiva Administradora De Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+420301;Inova Administradora De Beneficios Ltda Me; Sem Beneficiarios;Sul;ativa
+420697;Bem Estar Administradora De Beneficios Ltda; Sem Beneficiarios;Sul;ativa
+420701;Fundacao De Assistencia a Saude Da Associac; 1 a 5.000 beneficiarios;Sul;ativa
+420743;Operadora De Planos Odontologicos Odontocli; Sem Beneficiarios;Nordeste;ativa
+420751;Ideal Saude Assistencia Medica Ambulatorial; 1 a 5.000 beneficiarios;Centro Oeste;ativa
+420778;Passport System Odontologia Ltda; 1 a 5.000 beneficiarios;Norte;ativa
+420786;Associacao Santa Casa Clinicas De Birigui; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+420794;Assorel Brasil Administradora De Beneficios; Sem Beneficiarios;Centro Oeste;ativa
+420808;Union Administradora De Beneficios Em Saude; Sem Beneficiarios;Sudeste;ativa
+420816;Associacao Padre Pio Planos De Saude; 1 a 5.000 beneficiarios;Sudeste;ativa
+420841;Interclinicas Plano Vida Usa Operadora De S; 1 a 5.000 beneficiarios;Sudeste;ativa
+420859;Mediatorie Administradora De Beneficios S/A; Sem Beneficiarios;Sudeste;ativa
+420930;Hospital De Caridade Sao Vicente De Paulo; 1 a 5.000 beneficiarios;Sul;ativa
+420956;Plena Administradora De Beneficios Ltda - M; Sem Beneficiarios;Sudeste;ativa
+420964;Master Health Administradora De Beneficios; Sem Beneficiarios;Sudeste;ativa
+420972;Oralplan Planos De Saude Odontologicos Ltda; 5.001 a 10.000 beneficiarios;Nordeste;ativa
+420981;S1 Operadora De Plano De Saude Ltda; 5.001 a 10.000 beneficiarios;Centro Oeste;ativa
+420999;Quali Administradora De Beneficios S/A; Sem Beneficiarios;Sudeste;ativa
+421006;Associacao Sao Luiz Saude; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+421049;W. Dental Planos Odontologicos S.A; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+421081;Delfhi Planos Odontologicos Ltda; 5.001 a 10.000 beneficiarios;Nordeste;ativa
+421120;Easyplan Administradora De Beneficios Ltda.; Sem Beneficiarios;Centro Oeste;ativa
+421146;Nexo - Administradora De Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+421154;Saude Brasil Assistencia Medica Ltda.; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+421189;Beneficencia Social Bom Samaritano; 1 a 5.000 beneficiarios;Sudeste;ativa
+421197;Santa Casa De Maua Saude; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+421243;Quality Gold Saude Administradora De Planos; Sem Beneficiarios;Sudeste;ativa
+421278;Unipactum Administradora De Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+421286;Nacional Saude Administradora De Beneficios; Sem Beneficiarios;Sudeste;ativa
+421324;Benevitae Administradora De Beneficios Ltda; Sem Beneficiarios;Norte;ativa
+421332;Bem Administradoras Ltda; Sem Beneficiarios;Sudeste;ativa
+421341;Caixa De Assistencia a Saude Dos Servidores; 10.001 a 20.000 beneficiarios;Centro Oeste;ativa
+421359;Rio Doce Saude; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+421367;Medhealth Planos De Saude Ltda; 1 a 5.000 beneficiarios;Sul;ativa
+421375;Intervida Administradora De Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+421383;Propulsao Planos Odontologicos Ltda; 5.001 a 10.000 beneficiarios;Sul;ativa
+421391;Mega Administradora De Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+421405;Supermed Administradora De Beneficios Ltda.; Sem Beneficiarios;Sudeste;ativa
+421413;Pp Health Administradora De Beneficios Ltda; Sem Beneficiarios;Sul;ativa
+421421;2Care Operadora De Saude Ltda.; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+421456;Union Life Administradora De Beneficios Ltd;0;0;inativa
+421464;Odonto Alegre Clinicas E Planos Odontologic; 1 a 5.000 beneficiarios;Sul;ativa
+421472;Sorriso Studio Plano De Saude Ltda; 1 a 5.000 beneficiarios;Sudeste;ativa
+421545;2B Odontologia Operadora De Planos Odontolo; Sem Beneficiarios;Sudeste;ativa
+421553;Adm Life - Administradora De Beneficios Ltd; Sem Beneficiarios;Sudeste;ativa
+421561;Brasil Odonto Operadora De Planos Odontolog; 5.001 a 10.000 beneficiarios;Norte;ativa
+421618;Associacao Hospital Saude De Vargem Grande; 1 a 5.000 beneficiarios;Sudeste;ativa
+421626;Hospital Mater Dei Sa; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+421634;Sd-M Operadora De Planos De Saude Ltda; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+421642;Excelencia Plano De Saude S/A; 1 a 5.000 beneficiarios;Sudeste;ativa
+421677;Mount Hermon Administradora De Beneficios L; Sem Beneficiarios;Sul;ativa
+421685;Liven Prestadora De Servicos Ltda; Sem Beneficiarios;Sudeste;ativa
+421693;Aqquer - Administradora De Beneficios Ltda; Sem Beneficiarios;Centro Oeste;ativa
+421707;Personal Care Operadora De Saude Sa; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+421715;Bradesco Saude - Operadora De Planos  S/A; Acima de 500.000 beneficiarios;Sudeste;ativa
+421723;Health-Med Sistema De Saude Ltda; 1 a 5.000 beneficiarios;Sudeste;ativa
+421731;Amhe Med Assistencia A Saude Ltda - Epp; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+421740;Tecben Administradora De Beneficios Ltda.; Sem Beneficiarios;Sudeste;ativa
+421758;Sanus Administradora De Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+421766;Best Senior Operadora De Saude Ltda; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+421774;Pentagono Administradora De Beneficios S/A; Sem Beneficiarios;Sul;ativa
+421804;Prever Administradora De Beneficios Ltda; Sem Beneficiarios;Sul;ativa
+421812;Impetu Administradora De Beneficios Ltda; Sem Beneficiarios;Sul;ativa
+421847;Foco Administradora De Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+421871;Angeli Sistemas De Saude S.A.; 5.001 a 10.000 beneficiarios;Sul;ativa
+421928;Alice Operadora Ltda.; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+421936;Wre Beneficios Em Saude  Ltda; Sem Beneficiarios;Sudeste;ativa
+421944;Unica Assistencia Medica Ltda; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+421952;Crz Plano Odontologico Ltda; 1 a 5.000 beneficiarios;Sul;ativa
+422029;Klini Planos De Saude Ltda; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+422045;Ctesk Administradora De Benefiicios Ltda; Sem Beneficiarios;Centro Oeste;ativa
+422053;Associacao Fca Saude; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+422061;Mms Administradora De Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+422070;Eletros Saude - Associacao De Assistencia a; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+422088;Odont-Operadora Odontologica Ltda; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+422126;Up Health Administradora De Beneficios S/A; Sem Beneficiarios;Sudeste;ativa
+422134;Univida Usa Operadora Em Saude S/A; Sem Beneficiarios;Sudeste;ativa
+422151;Atitude Saude Assistencia Medica Ltda; 5.001 a 10.000 beneficiarios;Nordeste;ativa
+422185;Oliva Administradora De Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+422193;Prudente Administradora De Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+422223;Up Solucoes Em Saude Ltda; Sem Beneficiarios;Sudeste;ativa
+422240;Vida & Saude Administradora De Planos De Sa; Sem Beneficiarios;Sudeste;ativa
+422258;Global-Al Administradora De Beneficios Ltda; Sem Beneficiarios;Nordeste;ativa
+422291;Solutions Administradora De Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+422304;Caring Saude Assistencia Medica Ltda.; 1 a 5.000 beneficiarios;Sudeste;ativa
+422321;Associacao De Saude Do Vale; 20.001 a 50.000 beneficiarios;Sul;ativa
+422339;Leve Saude Operadora De Planos De Saude S.A; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+422347;Adress Administradora De Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+422355;Pd Brasil Assistencia Odontologica Ltda; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+422371;Sf Sistemas De Saude Ltda; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+422380;You Assistencia Medica Ltda.; Sem Beneficiarios;Sudeste;ativa
+422398;Sami Assistencia Medica Ltda; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+422401;Bit Life Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+422436;Cenibra Logistica Ltda; 1 a 5.000 beneficiarios;Sudeste;ativa
+422444;Happymed Plano De Saude Ltda;0;0;inativa
+422461;Clube Silver Administradora De Planos De Sa; Sem Beneficiarios;Sudeste;ativa
+422479;Livri Operadora De Plano De Saude Ltda; 1 a 5.000 beneficiarios;Sudeste;ativa
+422487;Voce Total Planos De Saude Limitada; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+422533;Prover Odontologia Ltda; 1 a 5.000 beneficiarios;Centro Oeste;ativa
+422576;Esplendor Administradora De Beneficios Ltda; Sem Beneficiarios;Centro Oeste;ativa
+422584;Pb Assistencia Medica Eu Ltda; 20.001 a 50.000 beneficiarios;Nordeste;ativa
+422592;Vitta Saude Administradora De Beneficios Lt; Sem Beneficiarios;Sudeste;ativa
+422606;Cuidar.Me Saude Sa;0;0;inativa
+422622;Odonto Mais Saude Empreendimentos Ltda.; 1 a 5.000 beneficiarios;Sudeste;ativa
+422631;Associacao Petrobras De Saude - Aps; 100.001 a 500.000 beneficiarios;Sudeste;ativa
+422657;Viver Bem Administradora De Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+422673;Operadora De Planos Odontologicos Ultraodon; 10.001 a 20.000 beneficiarios;Nordeste;ativa
+422681;Gocare Planos De Saude Ltda; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+422703;Ps Assistencia Ltda; 1 a 5.000 beneficiarios;Sudeste;ativa
+422720;Ampla Planos De Saude Ltda; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+422746;Salusmed Operadora De Planos De Saude Ltda; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+422754;Odile Servicos De Saude Ltda.; 1 a 5.000 beneficiarios;Sudeste;ativa
+422762;Santa Casa De Misericordia E Beneficencia P; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+422771;Tempo Med Plano De Saude Ltda; 10.001 a 20.000 beneficiarios;Sul;ativa
+422797;Medcorp Administradora De Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+422827;Trino - Alianca Filantropica De Assistencia; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+422835;Vida Top Mais Saude Operadora De Planos De; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+422851;Odonto Mais Brasil Operadora De Planos Odon; 1 a 5.000 beneficiarios;Norte;ativa
+422860;Saluty Administradora De Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+422878;Rg Saude Administradora De Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+422924;Odontocoop - Operadora De Planos De Saude L; 1 a 5.000 beneficiarios;Nordeste;ativa
+422932;Aplus Administradora De Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+422941;Arl Administradora De Beneficios Ltda.; Sem Beneficiarios;Sudeste;ativa
+422959;Preserve Saude Assistencia Medica Ltda; 1 a 5.000 beneficiarios;Nordeste;ativa
+422967;Eleve Administradora Debeneficios Limitada;0;0;inativa
+422975;Dentalmaster Ltda; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+422991;Bauen Life Ltda.; Sem Beneficiarios;Sudeste;ativa
+423017;Total Saude  Administradora De Beneficios E; Sem Beneficiarios;Sudeste;ativa
+423041;Unicor Administradora De Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+423050;Dental White Plano De Assistencia Odontolog; 1 a 5.000 beneficiarios;Nordeste;ativa
+423068;Solidus Administradora De Beneficios E Solu; Sem Beneficiarios;Nordeste;ativa
+423076;Gestao Administradora De Planos De Saude Lt; Sem Beneficiarios;Sudeste;ativa
+423084;Xipp Integradora E Administradora De Benefi; Sem Beneficiarios;Sudeste;ativa
+423092;You Odonto Ltda.; 1 a 5.000 beneficiarios;Sudeste;ativa
+423106;Saude Integral Assistencia Medica Ltda; 1 a 5.000 beneficiarios;Nordeste;ativa
+423114;Unity Administradora De Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+423122;H2U Administradora De Beneficios Ltda.; Sem Beneficiarios;Sudeste;ativa
+423131;Uniao Saude Administradora De Planos De Sau; Sem Beneficiarios;Sudeste;ativa
+423173;Integra Assistencia Medica Sa; 50.001 a 100.000 beneficiarios;Sudeste;ativa
+423181;Bemstar Assistencia Medica Ltda; 1 a 5.000 beneficiarios;Nordeste;ativa
+423203;Associacao Policial De Assistencia a Saude; 1 a 5.000 beneficiarios;Sudeste;ativa
+423211;J&L Administradora De Beneficios E Sol Em S; Sem Beneficiarios;Nordeste;ativa
+423220;Conectaplan Administradora De Beneficios Lt; Sem Beneficiarios;Sudeste;ativa
+423238;Odontoplan Planos Odontologicos Ltda; 1 a 5.000 beneficiarios;Sudeste;ativa
+423262;Alma Odonto Operadora De Planos Odontologic; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+423271;Dixmed Administradora De Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+423319;Anafe Saude; 5.001 a 10.000 beneficiarios;Centro Oeste;ativa
+423327;Clicsaude Administradora De Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+423335;Unity Servicos Integrados De Saude Ltda.; 20.001 a 50.000 beneficiarios;Centro Oeste;ativa
+423343;Hub Health Administradora De Beneficios Ltd; Sem Beneficiarios;Nordeste;ativa
+423351;Ame Vvida Planos De Saude Integrado Ltda.; 5.001 a 10.000 beneficiarios;Norte;ativa
+423378;Vitrea Administradora De Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+423394;Saude Plena Administradora De Beneficios Lt; Sem Beneficiarios;Sudeste;ativa
+423408;Plano Sigma Saude Ltda; 1 a 5.000 beneficiarios;Sudeste;ativa
+423424;Ipresb - Instituto De Prevencao Em Saude Bu; 1 a 5.000 beneficiarios;Sudeste;ativa
+423432;Assoc De Assist a Saude Dos Serv Das Univ E; 1 a 5.000 beneficiarios;Nordeste;ativa
+423441;Plenum Assistencia Medica  Ltda; 5.001 a 10.000 beneficiarios;Centro Oeste;ativa
+423467;Benet Administracao De Beneficios Ltda; Sem Beneficiarios;Sul;ativa
+423483;P4H Gestao De Beneficios Ltda; Sem Beneficiarios;Sul;ativa
+423491;Odontobras Planos Odontologicos Ltda; 1 a 5.000 beneficiarios;Sudeste;ativa
+423505;Xp Administradora De Beneficios Ltda.; Sem Beneficiarios;Sudeste;ativa
+423513;Real Grandeza Saude; Sem Beneficiarios;Sudeste;ativa
+423521;Egregora  Administradora De Beneficios S/A; Sem Beneficiarios;Sudeste;ativa
+423530;Bwg Administradora De Beneficios Ltda.; Sem Beneficiarios;Sudeste;ativa
+423548;Total Assistencia Medica Hospitalar Ltda; 1 a 5.000 beneficiarios;Sudeste;ativa
+423556;Siso Plano Odontologico Ltda; 1 a 5.000 beneficiarios;Sudeste;ativa
+423564;Infinity Saude Suplementar Ltda; 1 a 5.000 beneficiarios;Centro Oeste;ativa
+423572;Innova Plano De Saude Ltda; 1 a 5.000 beneficiarios;Norte;ativa
+423581;Federal Administradora De Beneficios Ltda; Sem Beneficiarios;Centro Oeste;ativa
+423611;Med Care Administradora De Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+423629;Aurora Saude Ltda; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+423637;Casufes Saude Administradora De Beneficios; Sem Beneficiarios;Sudeste;ativa
+423645;Saudia Assistencia Medica Ltda; 1 a 5.000 beneficiarios;Sudeste;ativa
+423653;Dr Dia Planos Odontologicos E Saude Ltda; 1 a 5.000 beneficiarios;Sul;ativa
+423661;Nova Saude Operadora Integrada De Saude Ltd; 20.001 a 50.000 beneficiarios;Sudeste;ativa
+423670;Hes Plano De Saude Ltda; 1 a 5.000 beneficiarios;Norte;ativa
+423688;Lifemed Administradora De Beneficios Ltda; Sem Beneficiarios;Norte;ativa
+423700;Evo Saude Assistencia Medica Ltda; 1 a 5.000 beneficiarios;Centro Oeste;ativa
+423718;Sul Do Para Ltda; 5.001 a 10.000 beneficiarios;Norte;ativa
+423726;Gold Plan Empreendimentos Ltda; 1 a 5.000 beneficiarios;Sudeste;ativa
+423734;Avant Administradora De Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+423751;Valor Saude Administradora De Beneficios Lt; Sem Beneficiarios;Sudeste;ativa
+423777;Febrafite Saude; 1 a 5.000 beneficiarios;Centro Oeste;ativa
+423785;Evolucao Administradora De Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+423807;Associacao Hospitalar Moinhos De Vento; 5.001 a 10.000 beneficiarios;Sul;ativa
+423815;Sagrada Saude Assistencia Medica Ltda; 1 a 5.000 beneficiarios;Sudeste;ativa
+423831;Vitacare Planos De Saude Ltda; Sem Beneficiarios;Nordeste;ativa
+423840;Ideal Administradora De Beneficios Ltda; Sem Beneficiarios;Sul;ativa
+423858;Amplitude Planos De Saude Ltda; 1 a 5.000 beneficiarios;Sudeste;ativa
+423874;Sf Saude Odontomais Assistencia Odontologic; 1 a 5.000 beneficiarios;Nordeste;ativa
+423882;Plamedh Planos De Saude Ltda; 1 a 5.000 beneficiarios;Sudeste;ativa
+423891;Benefit Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+423912;Assistencia Medica 12 De Outubro Ltda; 1 a 5.000 beneficiarios;Sudeste;ativa
+423921;Fox Saude Assistencia Medica Integrada Ltda; 1 a 5.000 beneficiarios;Nordeste;ativa
+423939;Integralcare Planos De Saude Ltda; Sem Beneficiarios;Nordeste;ativa
+423947;Smiles Odonto Ltda.; Sem Beneficiarios;Sul;ativa
+423963;Claro S.A; Sem Beneficiarios;Sudeste;ativa
+423998;Blue Union Saude Administradora De Benefici; Sem Beneficiarios;Sul;ativa
+424005;Avanti Administradora De Beneficios Em Saud; Sem Beneficiarios;Sudeste;ativa
+424013;Vct Planos De Saude Ltda; Sem Beneficiarios;Sudeste;ativa
+424021;Cacss Administradora De Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+424030;Omega Odonto Operadora De Planos Odontologi; 10.001 a 20.000 beneficiarios;Sudeste;ativa
+424048;Vale Planos De Saude Ltda; 1 a 5.000 beneficiarios;Nordeste;ativa
+424064;Mb Planos De Saude Ltda; 1 a 5.000 beneficiarios;Nordeste;ativa
+424099;Medsaude Administradora De Planos De Saude; Sem Beneficiarios;Sudeste;ativa
+424111;Yellow Administradora De Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+424129;Hospital Maternidade Sao Vicente De Paulo; 1 a 5.000 beneficiarios;Nordeste;ativa
+424137;Home Administradora De Beneficios Ltda; Sem Beneficiarios;Sul;ativa
+424145;Saude Viva Administradora De Beneficios Ltd; Sem Beneficiarios;Sudeste;ativa
+424153;Soma Administradora De Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+424161;Pro-Saude Jarinu Assistencia Medica Supleme; Sem Beneficiarios;Sudeste;ativa
+424170;Bluzz Saude S/A; 5.001 a 10.000 beneficiarios;Sudeste;ativa
+424188;Serv  Social Autonomo De Assist a Saude Dos; Acima de 500.000 beneficiarios;Centro Oeste;ativa
+424196;Maximed Planos De Saude Ltda; 1 a 5.000 beneficiarios;Sudeste;ativa
+424200;Plano A Administradora De Planos De Saude L; Sem Beneficiarios;Norte;ativa
+424218;Boa Saude Admnistradora De Beneficios De Sa; Sem Beneficiarios;Sudeste;ativa
+424226;Gestao Vida Administradora De Beneficios Lt; Sem Beneficiarios;Sudeste;ativa
+424234;Amazil Assistencia Medica Do Brasil Ltda; Sem Beneficiarios;Sudeste;ativa
+424242;Abrange Administradora De Beneficios Ltda.; Sem Beneficiarios;Sudeste;ativa
+424251;Prolife Administradora  De Saude Ltda; Sem Beneficiarios;Sudeste;ativa
+424277;Amelia Operadora De Planos De Saude S/A.; Sem Beneficiarios;Sudeste;ativa
+424285;Aires Operadora De Saude Ltda; Sem Beneficiarios;Nordeste;ativa
+424293;Adc Administradora De Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+424307;Meridian Administradora De Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+424315;Zeux Administradora De Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+424323;Lago Saude Administradora De Beneficios Ltd; Sem Beneficiarios;Sudeste;ativa
+424331;Medical Life Planos De Saude Ltda; Sem Beneficiarios;Nordeste;ativa
+424340;Artyodonto Brasil  Plano De Assistencia Odo; Sem Beneficiarios;Nordeste;ativa
+424358;Ld Rodrigues Ltda; Sem Beneficiarios;Norte;ativa
+424366;Ap Administracao De Beneficios - Sociedade; Sem Beneficiarios;Sudeste;ativa
+424391;Hospital De Clinicas De Passo Fundo; Sem Beneficiarios;Sul;ativa
+424404;Santa Cruz Saude - Gestao Em Planos De Saud; Sem Beneficiarios;Centro Oeste;ativa
+424412;Vettor Administradora De Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+424421;Salve Saude Administradora De Beneficios Lt; Sem Beneficiarios;Sudeste;ativa
+424439;Integra Administradora De Beneficios Ltda; Sem Beneficiarios;Centro Oeste;ativa
+424447;Dental Saude Supreme Planos Odontologicos L; Sem Beneficiarios;Norte;ativa
+424463;Saude Salv Assistencia Medica Ltda; 1 a 5.000 beneficiarios;Norte;ativa
+424471;Exclusivo Odonto Assistencia Odontologica L; Sem Beneficiarios;Sudeste;ativa
+424480;Viver Saude Ltda; Sem Beneficiarios;Nordeste;ativa
+424498;Suporte Administradora De Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+424501;Unic Assistencia Medica Ltda; Sem Beneficiarios;Sudeste;ativa
+424528;Atimed Assistencia Medica Ltda; Sem Beneficiarios;Sudeste;ativa
+424536;Brs Administradora De Saude Ltda; Sem Beneficiarios;Centro Oeste;ativa
+424544;Elite Saude Servicos Medicos Ltda.; 1 a 5.000 beneficiarios;Sudeste;ativa
+424552;Bkr Saude Administradora De Beneficios Ltda; Sem Beneficiarios;Sudeste;ativa
+424561;Integra Planos De Saude Ltda; Sem Beneficiarios;Centro Oeste;ativa
+424579;Conecta Administradora De Beneficios Ltda; Sem Beneficiarios;Nordeste;ativa
+424587;Gringo Planos Odontologicos Ltda; Sem Beneficiarios;Sudeste;ativa
+424595;Sf Saude Assistencia Medica Ltda; Sem Beneficiarios;Nordeste;ativa
+424609;Uniao Hospitais De Pernambuco Ltda; Sem Beneficiarios;Nordeste;ativa
+424625;Esperanca Operadora De Planos De Saude Ltda; Sem Beneficiarios;Sudeste;ativa
+424633;Saude Facil Planos De Saude Ltda; Sem Beneficiarios;Sudeste;ativa
+424641;Pro-Saude Administradora  De Beneficios Ltd; Sem Beneficiarios;Sudeste;ativa
+424676;Dental Klin Assistencia Odontologica Ltda; Sem Beneficiarios;Sudeste;ativa
+424706;Bonna Saude Ltda; Sem Beneficiarios;Sudeste;ativa
