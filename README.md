@@ -38,7 +38,7 @@ Os demais filtros e configurações foram mantidos com os valores pré-definidos
 
 ### Arquivos
 As tabelas geradas pelo sistema Tabnet/ANS foram copiados para arquivos CSV, usando o Microsoft Excel. Durante esta etapa, foi atribuído o valor 0 aos resultados nulos das `extrações 1 e 2`, de modo a viabilizar a consolidação dos dados em formato tabular.
-A versão destes arquivos que foi utilizada para a realização das análises está disponível na pasta `/data`, juntamente com o script para sua leitura no banco de dados (`import.txt`).
+A versão destes arquivos que foi utilizada para a realização das análises foi disponibilizada para assegurar a reprodutibilidade da análise, juntamente com o script para sua leitura no banco de dados (`import.txt`).
 Por favor, notar que `import.txt` contém um comando para a leitura de `schema.sql`.
 
 **Importante:** Os arquivos representam um recorte temporal específico e têm caráter reprodutível apenas para fins acadêmicos e demonstrativos.
