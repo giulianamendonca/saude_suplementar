@@ -71,7 +71,7 @@ README.md           # Documentação
 
 # Limitações
 * Esta análise considera apenas o primeiro semestre de 2025 e utiliza dados públicos agregados, não permitindo inferências individuais sobre beneficiários ou atendimentos específicos.
-* As análises comparativas realizadas em `analise_exploratoria.ipynb` não consideram operadoras com menos de 5000 beneficiários. Sugere-se a realização de uma análise cautelosa, especificamente voltada para estes casos.
+* As análises comparativas realizadas em `analise.ipynb` não consideram operadoras com menos de 5000 beneficiários. Sugere-se a realização de uma análise cautelosa, especificamente voltada para estes casos.
 
 ## Conclusões obtidas
 A análise exploratória dos dados evidencia que a avaliação do desempenho das operadoras de saúde suplementar com base exclusivamente no número absoluto de reclamações pode conduzir a interpretações distorcidas, uma vez que esse indicador apresenta forte correlação com o tamanho da base de beneficiários. A normalização das reclamações por usuário permite comparações mais equitativas entre operadoras de diferentes portes, revelando que aquelas com maior volume absoluto de reclamações não são, necessariamente, as que apresentam pior desempenho relativo.
